@@ -3683,20 +3683,21 @@ Mon Sep 21 2026,15:05,CAD,Medium,BOC Gov Macklem Speaks,,,
 Mon Sep 21 2026,19:00,AUD,Low,RBA Assist Gov Hunter Speaks,,,
 Mon Sep 21 2026,All Day,JPY,,Bank Holiday,,,
 Tue Sep 22 2026,3:10,AUD,High,RBA Gov Bullock Speaks,,,
-Tue Sep 22 2026,6:00,GBP,Low,Public Sector Net Borrowing,,15.2B,1.8B
+Tue Sep 22 2026,6:00,GBP,Low,Public Sector Net Borrowing,18.3B,15.2B,2.0B
 Tue Sep 22 2026,8:30,EUR,Low,German Buba President Nagel Speaks,,,
-Tue Sep 22 2026,10:00,GBP,Low,CBI Industrial Order Expectations,,-33,-25
+Tue Sep 22 2026,10:00,GBP,Low,CBI Industrial Order Expectations,-9,-33,-25
 Tue Sep 22 2026,11:00,EUR,Medium,ECB President Lagarde Speaks,,,
-Tue Sep 22 2026,12:15,USD,Low,ADP Weekly Employment Change,,,16.3K
-Tue Sep 22 2026,14:00,EUR,Low,Consumer Confidence,,-16,-16
-Tue Sep 22 2026,14:00,USD,Low,Richmond Manufacturing Index,,2,4
+Tue Sep 22 2026,12:15,USD,Low,ADP Weekly Employment Change,20.0K,,16.8K
+Tue Sep 22 2026,13:55,USD,Medium,President Trump Speaks,,,
+Tue Sep 22 2026,14:00,EUR,Low,Consumer Confidence,-17,-16,-16
+Tue Sep 22 2026,14:00,USD,Low,Richmond Manufacturing Index,-2,2,4
 Tue Sep 22 2026,14:05,USD,Low,FOMC Member Williams Speaks,,,
 Tue Sep 22 2026,14:20,USD,Low,FOMC Member Jefferson Speaks,,,
 Tue Sep 22 2026,17:00,USD,Low,FOMC Member Barkin Speaks,,,
 Tue Sep 22 2026,19:30,EUR,Low,German Buba President Nagel Speaks,,,
 Tue Sep 22 2026,20:30,USD,Low,API Weekly Statistical Bulletin,,,
-Tue Sep 22 2026,23:00,AUD,Low,Flash Manufacturing PMI,,,52.0
-Tue Sep 22 2026,23:00,AUD,Low,Flash Services PMI,,,53.2
+Tue Sep 22 2026,23:00,AUD,Low,Flash Manufacturing PMI,49.3,,52.0
+Tue Sep 22 2026,23:00,AUD,Low,Flash Services PMI,51.4,,53.2
 Tue Sep 22 2026,All Day,JPY,,Bank Holiday,,,
 Wed Sep 23 2026,7:15,EUR,Medium,French Flash Manufacturing PMI,,50.9,51.1
 Wed Sep 23 2026,7:15,EUR,Medium,French Flash Services PMI,,48.3,48.0
@@ -3710,7 +3711,8 @@ Wed Sep 23 2026,Tentative,EUR,Low,German 30-y Bond Auction,,,3.90|2.4
 Wed Sep 23 2026,13:45,USD,Low,Flash Manufacturing PMI,,53.6,53.9
 Wed Sep 23 2026,13:45,USD,Low,Flash Services PMI,,55.8,56.5
 Wed Sep 23 2026,14:05,USD,Low,FOMC Member Barr Speaks,,,
-Wed Sep 23 2026,14:30,USD,Low,Crude Oil Inventories,,-0.6M,-0.6M
+Wed Sep 23 2026,14:30,USD,Low,Crude Oil Inventories,,-0.7M,-0.6M
+Wed Sep 23 2026,16:00,USD,Low,FOMC Member Goolsbee Speaks,,,
 Thu Sep 24 2026,0:30,JPY,Low,Flash Manufacturing PMI,,55.0,54.9
 Thu Sep 24 2026,Tentative,AUD,Low,NAB Quarterly Business Confidence,,,-19
 Thu Sep 24 2026,1:30,AUD,High,Employment Change,,22.5K,-15.8K
@@ -3735,7 +3737,7 @@ Thu Sep 24 2026,13:30,GBP,Low,MPC Member Breeden Speaks,,,
 Thu Sep 24 2026,14:00,GBP,Low,MPC Member Lombardelli Speaks,,,
 Thu Sep 24 2026,14:00,USD,Low,New Home Sales,,615K,607K
 Thu Sep 24 2026,14:10,USD,Low,FOMC Member Paulson Speaks,,,
-Thu Sep 24 2026,14:30,USD,Low,Natural Gas Storage,,52B,44B
+Thu Sep 24 2026,14:30,USD,Low,Natural Gas Storage,,50B,44B
 Thu Sep 24 2026,23:01,GBP,Low,GfK Consumer Confidence,,-16,-14
 Thu Sep 24 2026,All Day,CNY,,Bank Holiday,,,
 Fri Sep 25 2026,5:00,JPY,Low,BOJ Core CPI y/y,,1.5%,1.6%
@@ -3746,6 +3748,7 @@ Fri Sep 25 2026,9:15,GBP,High,BOE Gov Bailey Speaks,,,
 Fri Sep 25 2026,9:15,USD,Low,FOMC Member Williams Speaks,,,
 Fri Sep 25 2026,12:30,USD,Low,Core Durable Goods Orders m/m,,0.6%,0.4%
 Fri Sep 25 2026,12:30,USD,Low,Durable Goods Orders m/m,,-0.3%,1.1%
+Fri Sep 25 2026,13:20,USD,Low,FOMC Member Schmid Speaks,,,
 Fri Sep 25 2026,14:00,USD,Medium,Revised UoM Consumer Sentiment,,47.4,47.8
 Fri Sep 25 2026,14:00,USD,Medium,Revised UoM Inflation Expectations,,,4.6%
 Fri Sep 25 2026,18:00,USD,Low,FOMC Member Hammack Speaks,,,
@@ -3760,7 +3763,6 @@ Tue Sep 29 2026,1:30,AUD,Low,Household Spending m/m,,,1.1%
 Tue Sep 29 2026,4:30,AUD,High,Cash Rate,,,4.35%
 Tue Sep 29 2026,4:30,AUD,High,RBA Rate Statement,,,
 Tue Sep 29 2026,5:30,AUD,Medium,RBA Press Conference,,,
-Tue Sep 29 2026,6:30,CHF,Low,Retail Sales y/y,,,
 Tue Sep 29 2026,7:00,CHF,Low,KOF Economic Barometer,,,106.7
 Tue Sep 29 2026,7:00,EUR,Low,Spanish Flash CPI y/y,,,4.3%
 Tue Sep 29 2026,8:30,GBP,Low,M4 Money Supply m/m,,,-0.3%
@@ -3822,6 +3824,7 @@ Thu Oct 1 2026,1:30,AUD,Low,RBA Financial Stability Review,,,
 Thu Oct 1 2026,3:35,JPY,Low,10-y Bond Auction,,,
 Thu Oct 1 2026,6:30,AUD,Low,Commodity Prices y/y,,,15.5%
 Thu Oct 1 2026,6:30,CHF,Medium,CPI m/m,,,0.4%
+Thu Oct 1 2026,6:30,CHF,Low,Retail Sales y/y,,,2.3%
 Thu Oct 1 2026,7:15,EUR,Low,Spanish Manufacturing PMI,,,49.5
 Thu Oct 1 2026,7:30,CHF,Low,Manufacturing PMI,,,57.1
 Thu Oct 1 2026,7:45,EUR,Low,Italian Manufacturing PMI,,,49.6
@@ -3970,9 +3973,9 @@ Wed Oct 14 2026,23:50,JPY,Low,Core Machinery Orders m/m,,,
 Wed Oct 14 2026,23:50,JPY,Low,PPI y/y,,,
 Thu Oct 15 2026,0:30,AUD,High,Employment Change,,,
 Thu Oct 15 2026,0:30,AUD,High,Unemployment Rate,,,
-Thu Oct 15 2026,6:00,GBP,High,Claimant Count Change,,,
 Thu Oct 15 2026,6:00,GBP,High,GDP m/m,,,
 Thu Oct 15 2026,6:00,GBP,Medium,Average Earnings Index 3m/y,,,
+Thu Oct 15 2026,6:00,GBP,Low,Claimant Count Change,,,
 Thu Oct 15 2026,6:00,GBP,Low,Construction Output m/m,,,
 Thu Oct 15 2026,6:00,GBP,Low,Goods Trade Balance,,,
 Thu Oct 15 2026,6:00,GBP,Low,Index of Services 3m/3m,,,
@@ -4357,8 +4360,8 @@ Sun Nov 15 2026,23:50,JPY,Low,Prelim GDP Price Index y/y,,,
 Sun Nov 15 2026,23:50,JPY,Low,Prelim GDP q/q,,,
 Mon Nov 16 2026,0:01,GBP,Low,Rightmove HPI m/m,,,
 Mon Nov 16 2026,4:30,JPY,Low,Revised Industrial Production m/m,,,
-Mon Nov 16 2026,7:00,GBP,High,Claimant Count Change,,,
 Mon Nov 16 2026,7:00,GBP,Medium,Average Earnings Index 3m/y,,,
+Mon Nov 16 2026,7:00,GBP,Low,Claimant Count Change,,,
 Mon Nov 16 2026,7:00,GBP,Low,Unemployment Rate,,,
 Mon Nov 16 2026,10:00,EUR,Low,Industrial Production m/m,,,
 Mon Nov 16 2026,Tentative,EUR,Low,German Buba Monthly Report,,,
@@ -4715,9 +4718,9 @@ Mon Dec 14 2026,14:30,GBP,Low,CB Leading Index m/m,,,
 Mon Dec 14 2026,Day 1,All,Low,G20 Meetings,,,
 Mon Dec 14 2026,23:50,JPY,Low,Tankan Manufacturing Index,,,
 Mon Dec 14 2026,23:50,JPY,Low,Tankan Non-Manufacturing Index,,,
-Tue Dec 15 2026,7:00,GBP,High,Claimant Count Change,,,
 Tue Dec 15 2026,7:00,GBP,Medium,Average Earnings Index 3m/y,,,
 Tue Dec 15 2026,7:00,GBP,Medium,Retail Sales m/m,,,
+Tue Dec 15 2026,7:00,GBP,Low,Claimant Count Change,,,
 Tue Dec 15 2026,7:00,GBP,Low,Unemployment Rate,,,
 Tue Dec 15 2026,7:30,CHF,Low,PPI m/m,,,
 Tue Dec 15 2026,10:00,EUR,Low,Final CPI y/y,,,
