@@ -3699,24 +3699,23 @@ Tue Sep 22 2026,20:30,USD,Low,API Weekly Statistical Bulletin,,,
 Tue Sep 22 2026,23:00,AUD,Low,Flash Manufacturing PMI,49.3,,52.0
 Tue Sep 22 2026,23:00,AUD,Low,Flash Services PMI,51.4,,53.2
 Tue Sep 22 2026,All Day,JPY,,Bank Holiday,,,
-Wed Sep 23 2026,7:15,EUR,Medium,French Flash Manufacturing PMI,,50.9,51.1
-Wed Sep 23 2026,7:15,EUR,Medium,French Flash Services PMI,,48.3,48.0
-Wed Sep 23 2026,7:30,EUR,Medium,German Flash Manufacturing PMI,,54.1,54.3
-Wed Sep 23 2026,7:30,EUR,Medium,German Flash Services PMI,,49.9,49.7
-Wed Sep 23 2026,8:00,EUR,Low,Flash Manufacturing PMI,,52.6,52.7
-Wed Sep 23 2026,8:00,EUR,Low,Flash Services PMI,,51.4,51.6
-Wed Sep 23 2026,8:30,GBP,Medium,Flash Manufacturing PMI,,51.5,51.7
-Wed Sep 23 2026,8:30,GBP,Medium,Flash Services PMI,,52.0,52.5
-Wed Sep 23 2026,Tentative,EUR,Low,German 30-y Bond Auction,,,3.90|2.4
-Wed Sep 23 2026,13:45,USD,Low,Flash Manufacturing PMI,,53.6,53.9
-Wed Sep 23 2026,13:45,USD,Low,Flash Services PMI,,55.8,56.5
+Wed Sep 23 2026,7:15,EUR,Medium,French Flash Manufacturing PMI,50.3,50.9,51.1
+Wed Sep 23 2026,7:15,EUR,Medium,French Flash Services PMI,51.4,48.3,48.0
+Wed Sep 23 2026,7:30,EUR,Medium,German Flash Manufacturing PMI,53.8,54.1,54.3
+Wed Sep 23 2026,7:30,EUR,Medium,German Flash Services PMI,52.9,49.9,49.7
+Wed Sep 23 2026,8:00,EUR,Low,Flash Manufacturing PMI,52.7,52.6,52.7
+Wed Sep 23 2026,8:00,EUR,Low,Flash Services PMI,53.0,51.4,51.6
+Wed Sep 23 2026,8:30,GBP,Medium,Flash Manufacturing PMI,52.0,51.5,51.7
+Wed Sep 23 2026,8:30,GBP,Medium,Flash Services PMI,51.7,52.0,52.5
+Wed Sep 23 2026,9:35,EUR,Low,German 30-y Bond Auction,3.80|1.6,,3.90|2.4
+Wed Sep 23 2026,13:45,USD,Low,Flash Manufacturing PMI,57.0,53.6,53.9
+Wed Sep 23 2026,13:45,USD,Low,Flash Services PMI,58.7,55.8,56.5
 Wed Sep 23 2026,14:05,USD,Low,FOMC Member Barr Speaks,,,
-Wed Sep 23 2026,14:30,USD,Low,Crude Oil Inventories,,-0.7M,-0.6M
+Wed Sep 23 2026,14:30,USD,Low,Crude Oil Inventories,3.0M,-0.7M,-0.6M
 Wed Sep 23 2026,16:00,USD,Low,FOMC Member Goolsbee Speaks,,,
-Thu Sep 24 2026,0:30,JPY,Low,Flash Manufacturing PMI,,55.0,54.9
-Thu Sep 24 2026,Tentative,AUD,Low,NAB Quarterly Business Confidence,,,-19
-Thu Sep 24 2026,1:30,AUD,High,Employment Change,,22.5K,-15.8K
-Thu Sep 24 2026,1:30,AUD,High,Unemployment Rate,,4.5%,4.5%
+Thu Sep 24 2026,0:30,JPY,Low,Flash Manufacturing PMI,54.1,55.0,54.9
+Thu Sep 24 2026,1:30,AUD,High,Employment Change,39.5K,21.5K,-15.9K
+Thu Sep 24 2026,1:30,AUD,High,Unemployment Rate,4.6%,4.5%,4.5%
 Thu Sep 24 2026,7:30,CHF,High,SNB Monetary Policy Assessment,,,
 Thu Sep 24 2026,7:30,CHF,High,SNB Policy Rate,,0.00%,0.00%
 Thu Sep 24 2026,8:00,CHF,High,SNB Press Conference,,,
@@ -3740,6 +3739,7 @@ Thu Sep 24 2026,14:10,USD,Low,FOMC Member Paulson Speaks,,,
 Thu Sep 24 2026,14:30,USD,Low,Natural Gas Storage,,50B,44B
 Thu Sep 24 2026,23:01,GBP,Low,GfK Consumer Confidence,,-16,-14
 Thu Sep 24 2026,All Day,CNY,,Bank Holiday,,,
+Fri Sep 25 2026,Tentative,AUD,Low,NAB Quarterly Business Confidence,,,-19
 Fri Sep 25 2026,5:00,JPY,Low,BOJ Core CPI y/y,,1.5%,1.6%
 Fri Sep 25 2026,6:00,EUR,Low,German GfK Consumer Climate,,-27.1,-26.6
 Fri Sep 25 2026,8:00,EUR,Low,M3 Money Supply y/y,,3.5%,3.4%
@@ -3812,7 +3812,7 @@ Wed Sep 30 2026,12:30,USD,Low,Personal Spending m/m,,,0.2%
 Wed Sep 30 2026,12:30,USD,Low,Prelim Wholesale Inventories m/m,,,1.3%
 Wed Sep 30 2026,13:00,CHF,Low,SNB Quarterly Bulletin,,,
 Wed Sep 30 2026,13:45,USD,Low,Chicago PMI,,,47.1
-Wed Sep 30 2026,14:30,USD,Low,Crude Oil Inventories,,,
+Wed Sep 30 2026,14:30,USD,Low,Crude Oil Inventories,,,3.0M
 Wed Sep 30 2026,21:45,NZD,Low,Building Consents m/m,,,-4.3%
 Wed Sep 30 2026,All Day,CNY,,Bank Holiday,,,
 Wed Sep 30 2026,23:50,JPY,Low,BOJ Summary of Opinions,,,
@@ -3975,7 +3975,7 @@ Thu Oct 15 2026,0:30,AUD,High,Employment Change,,,
 Thu Oct 15 2026,0:30,AUD,High,Unemployment Rate,,,
 Thu Oct 15 2026,6:00,GBP,High,GDP m/m,,,
 Thu Oct 15 2026,6:00,GBP,Medium,Average Earnings Index 3m/y,,,
-Thu Oct 15 2026,6:00,GBP,Low,Claimant Count Change,,,
+Thu Oct 15 2026,6:00,GBP,Medium,Claimant Count Change,,,
 Thu Oct 15 2026,6:00,GBP,Low,Construction Output m/m,,,
 Thu Oct 15 2026,6:00,GBP,Low,Goods Trade Balance,,,
 Thu Oct 15 2026,6:00,GBP,Low,Index of Services 3m/3m,,,
@@ -4361,7 +4361,7 @@ Sun Nov 15 2026,23:50,JPY,Low,Prelim GDP q/q,,,
 Mon Nov 16 2026,0:01,GBP,Low,Rightmove HPI m/m,,,
 Mon Nov 16 2026,4:30,JPY,Low,Revised Industrial Production m/m,,,
 Mon Nov 16 2026,7:00,GBP,Medium,Average Earnings Index 3m/y,,,
-Mon Nov 16 2026,7:00,GBP,Low,Claimant Count Change,,,
+Mon Nov 16 2026,7:00,GBP,Medium,Claimant Count Change,,,
 Mon Nov 16 2026,7:00,GBP,Low,Unemployment Rate,,,
 Mon Nov 16 2026,10:00,EUR,Low,Industrial Production m/m,,,
 Mon Nov 16 2026,Tentative,EUR,Low,German Buba Monthly Report,,,
@@ -4719,8 +4719,8 @@ Mon Dec 14 2026,Day 1,All,Low,G20 Meetings,,,
 Mon Dec 14 2026,23:50,JPY,Low,Tankan Manufacturing Index,,,
 Mon Dec 14 2026,23:50,JPY,Low,Tankan Non-Manufacturing Index,,,
 Tue Dec 15 2026,7:00,GBP,Medium,Average Earnings Index 3m/y,,,
+Tue Dec 15 2026,7:00,GBP,Medium,Claimant Count Change,,,
 Tue Dec 15 2026,7:00,GBP,Medium,Retail Sales m/m,,,
-Tue Dec 15 2026,7:00,GBP,Low,Claimant Count Change,,,
 Tue Dec 15 2026,7:00,GBP,Low,Unemployment Rate,,,
 Tue Dec 15 2026,7:30,CHF,Low,PPI m/m,,,
 Tue Dec 15 2026,10:00,EUR,Low,Final CPI y/y,,,
