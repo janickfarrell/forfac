@@ -3804,45 +3804,45 @@ Wed Sep 30 2026,1:30,CNY,Low,Non-Manufacturing PMI,50.2,49.2,49.0
 Wed Sep 30 2026,1:45,CNY,Low,RatingDog Manufacturing PMI,52.1,51.7,51.5
 Wed Sep 30 2026,1:45,CNY,Low,RatingDog Services PMI,51.6,51.3,51.4
 Wed Sep 30 2026,5:00,JPY,Low,Housing Starts y/y,6.1%,6.9%,8.2%
-Wed Sep 30 2026,6:00,EUR,Low,German Import Prices m/m,,0.6%,0.2%
-Wed Sep 30 2026,6:00,EUR,Low,German Retail Sales m/m,,1.6%,-3.4%
-Wed Sep 30 2026,6:00,GBP,Low,Current Account,,-25.6B,-22.1B
-Wed Sep 30 2026,6:00,GBP,Low,Final GDP q/q,,0.4%,0.4%
-Wed Sep 30 2026,6:00,GBP,Low,Revised Business Investment q/q,,1.7%,1.7%
-Wed Sep 30 2026,All Day,EUR,Medium,German Prelim CPI m/m,,0.5%,0.2%
-Wed Sep 30 2026,6:45,EUR,Low,French Consumer Spending m/m,,0.0%,0.5%
-Wed Sep 30 2026,6:45,EUR,Low,French Prelim CPI m/m,,-0.5%,0.7%
-Wed Sep 30 2026,7:55,EUR,Low,German Unemployment Change,,1K,4K
-Wed Sep 30 2026,8:00,CHF,Low,UBS Economic Expectations,,,12.1
-Wed Sep 30 2026,9:00,EUR,Low,Italian Prelim CPI m/m,,0.2%,0.5%
+Wed Sep 30 2026,6:00,EUR,Low,German Import Prices m/m,1.0%,0.6%,0.2%
+Wed Sep 30 2026,6:00,GBP,Low,Current Account,-19.9B,-25.6B,-21.1B
+Wed Sep 30 2026,6:00,GBP,Low,Final GDP q/q,0.5%,0.4%,0.4%
+Wed Sep 30 2026,6:00,GBP,Low,Revised Business Investment q/q,1.8%,1.7%,1.7%
+Wed Sep 30 2026,6:04,EUR,Low,German Retail Sales m/m,1.3%,1.6%,-3.2%
+Wed Sep 30 2026,All Day,EUR,Medium,German Prelim CPI m/m,0.6%,0.5%,0.2%
+Wed Sep 30 2026,6:45,EUR,Low,French Consumer Spending m/m,-0.5%,0.0%,0.4%
+Wed Sep 30 2026,6:45,EUR,Low,French Prelim CPI m/m,-0.3%,-0.5%,0.7%
+Wed Sep 30 2026,7:55,EUR,Low,German Unemployment Change,12K,1K,5K
+Wed Sep 30 2026,8:00,CHF,Low,UBS Economic Expectations,2.6,,12.1
+Wed Sep 30 2026,9:00,EUR,Low,Italian Prelim CPI m/m,0.7%,0.2%,0.5%
 Wed Sep 30 2026,9:30,GBP,Low,FPC Meeting Minutes,,,
 Wed Sep 30 2026,9:30,GBP,Low,FPC Statement,,,
-Wed Sep 30 2026,Tentative,EUR,Low,German 10-y Bond Auction,,,3.39|1.5
+Wed Sep 30 2026,9:32,EUR,Low,German 10-y Bond Auction,3.58|1.2,,3.39|1.5
 Wed Sep 30 2026,All Day,CAD,,Bank Holiday,,,
-Wed Sep 30 2026,12:15,USD,Medium,ADP Non-Farm Employment Change,,73K,38K
-Wed Sep 30 2026,12:30,USD,High,Core PCE Price Index m/m,,0.3%,0.2%
-Wed Sep 30 2026,12:30,USD,High,Final GDP q/q,,1.5%,1.5%
-Wed Sep 30 2026,12:30,USD,Medium,Final GDP Price Index q/q,,6.4%,6.4%
-Wed Sep 30 2026,12:30,USD,Low,Goods Trade Balance,,-116.3B,-118.9B
-Wed Sep 30 2026,12:30,USD,Low,Personal Income m/m,,0.5%,0.4%
-Wed Sep 30 2026,12:30,USD,Low,Personal Spending m/m,,0.8%,0.2%
-Wed Sep 30 2026,12:30,USD,Low,Prelim Wholesale Inventories m/m,,0.5%,1.3%
+Wed Sep 30 2026,12:15,USD,Medium,ADP Non-Farm Employment Change,90K,73K,36K
+Wed Sep 30 2026,12:30,USD,High,Core PCE Price Index m/m,0.2%,0.3%,0.1%
+Wed Sep 30 2026,12:30,USD,High,Final GDP q/q,2.2%,1.5%,1.5%
+Wed Sep 30 2026,12:30,USD,Medium,Final GDP Price Index q/q,6.1%,6.4%,6.4%
+Wed Sep 30 2026,12:30,USD,Low,Goods Trade Balance,-132.6B,-116.3B,-118.9B
+Wed Sep 30 2026,12:30,USD,Low,Personal Income m/m,0.2%,0.5%,0.3%
+Wed Sep 30 2026,12:30,USD,Low,Personal Spending m/m,0.9%,0.8%,0.1%
+Wed Sep 30 2026,12:30,USD,Low,Prelim Wholesale Inventories m/m,0.7%,0.5%,1.3%
 Wed Sep 30 2026,13:00,CHF,Low,SNB Quarterly Bulletin,,,
-Wed Sep 30 2026,13:45,USD,Low,Chicago PMI,,51.2,47.1
+Wed Sep 30 2026,13:45,USD,Low,Chicago PMI,58.8,51.2,47.1
 Wed Sep 30 2026,14:30,CHF,Low,Gov Board Member Tschudin Speaks,,,
-Wed Sep 30 2026,14:30,USD,Low,Crude Oil Inventories,,-0.7M,3.0M
+Wed Sep 30 2026,14:30,USD,Low,Crude Oil Inventories,0.9M,-0.7M,3.0M
 Wed Sep 30 2026,17:30,USD,Low,FOMC Member Barkin Speaks,,,
 Wed Sep 30 2026,19:25,USD,Low,FOMC Member Cook Speaks,,,
 Wed Sep 30 2026,19:30,USD,Medium,President Trump Speaks,,,
 Wed Sep 30 2026,21:10,USD,Low,FOMC Member Goolsbee Speaks,,,
-Wed Sep 30 2026,21:45,NZD,Low,Building Consents m/m,,,-4.3%
-Wed Sep 30 2026,22:00,USD,Low,FOMC Member Kashkari Speaks,,,
+Wed Sep 30 2026,21:45,NZD,Low,Building Consents m/m,5.6%,,-4.5%
+Wed Sep 30 2026,22:00,USD,Medium,FOMC Member Kashkari Speaks,,,
 Wed Sep 30 2026,All Day,CNY,,Bank Holiday,,,
 Wed Sep 30 2026,23:50,JPY,Low,BOJ Summary of Opinions,,,
-Wed Sep 30 2026,23:50,JPY,Low,Tankan Manufacturing Index,,25,22
-Wed Sep 30 2026,23:50,JPY,Low,Tankan Non-Manufacturing Index,,36,37
-Thu Oct 1 2026,0:30,JPY,Low,Final Manufacturing PMI,,54.1,54.1
-Thu Oct 1 2026,1:30,AUD,Low,Goods Trade Balance,,2.00B,1.92B
+Wed Sep 30 2026,23:50,JPY,Low,Tankan Manufacturing Index,24,25,22
+Wed Sep 30 2026,23:50,JPY,Low,Tankan Non-Manufacturing Index,35,36,37
+Thu Oct 1 2026,0:30,JPY,Low,Final Manufacturing PMI,54.1,54.1,54.1
+Thu Oct 1 2026,1:30,AUD,Low,Goods Trade Balance,0.50B,2.00B,1.35B
 Thu Oct 1 2026,1:30,AUD,Low,RBA Financial Stability Review,,,
 Thu Oct 1 2026,6:00,GBP,Low,Nationwide HPI m/m,,0.0%,0.2%
 Thu Oct 1 2026,6:30,AUD,Low,Commodity Prices y/y,,,15.5%
@@ -3891,7 +3891,7 @@ Fri Oct 2 2026,8:00,EUR,Low,Italian Retail Sales m/m,,-0.1%,-0.4%
 Fri Oct 2 2026,9:00,EUR,Medium,Core CPI Flash Estimate y/y,,2.5%,2.4%
 Fri Oct 2 2026,9:00,EUR,Medium,CPI Flash Estimate y/y,,3.7%,3.2%
 Fri Oct 2 2026,12:30,USD,High,Average Hourly Earnings m/m,,0.3%,0.3%
-Fri Oct 2 2026,12:30,USD,High,Non-Farm Employment Change,,90K,162K
+Fri Oct 2 2026,12:30,USD,High,Non-Farm Employment Change,,89K,162K
 Fri Oct 2 2026,12:30,USD,High,Unemployment Rate,,4.1%,4.1%
 Fri Oct 2 2026,14:00,USD,Low,Factory Orders m/m,,0.1%,0.9%
 Fri Oct 2 2026,14:00,USD,Low,FOMC Member Logan Speaks,,,
@@ -3917,13 +3917,15 @@ Mon Oct 5 2026,21:00,NZD,Low,NZIER Business Confidence,,,
 Mon Oct 5 2026,All Day,CNY,,Bank Holiday,,,
 Mon Oct 5 2026,23:30,AUD,Low,Westpac Consumer Sentiment,,,-5.2%
 Tue Oct 6 2026,0:30,AUD,Low,ANZ Job Advertisements m/m,,,2.5%
+Tue Oct 6 2026,Tentative,JPY,High,BOJ Gov Ueda Speaks,,,
 Tue Oct 6 2026,3:35,JPY,Low,10-y Bond Auction,,,3.00|3.3
 Tue Oct 6 2026,6:00,EUR,Low,German Factory Orders m/m,,,2.5%
 Tue Oct 6 2026,6:45,EUR,Low,French Gov Budget Balance,,,-145.9B
 Tue Oct 6 2026,6:45,EUR,Low,French Industrial Production m/m,,,-0.4%
 Tue Oct 6 2026,7:00,CHF,Low,Unemployment Rate,,,3.1%
 Tue Oct 6 2026,8:30,GBP,Low,Construction PMI,,,44.3
-Tue Oct 6 2026,Tentative,GBP,Low,Housing Equity Withdrawal q/q,,,
+Tue Oct 6 2026,8:30,GBP,Low,MPC Member Mann Speaks,,,
+Tue Oct 6 2026,Tentative,GBP,Low,Housing Equity Withdrawal q/q,,,-12.6B
 Tue Oct 6 2026,9:00,EUR,Low,Retail Sales m/m,,,-0.6%
 Tue Oct 6 2026,12:15,USD,Low,ADP Weekly Employment Change,,,
 Tue Oct 6 2026,12:15,USD,Low,ADP Weekly Employment Change,,,
@@ -3934,15 +3936,17 @@ Tue Oct 6 2026,Tentative,USD,Low,RCM/TIPP Economic Optimism,,,45.6
 Tue Oct 6 2026,Tentative,NZD,Low,GDT Price Index,,,-1.1%
 Tue Oct 6 2026,Tentative,CAD,Medium,Annual Budget Release,,,
 Tue Oct 6 2026,20:30,USD,Low,API Weekly Statistical Bulletin,,,
+Tue Oct 6 2026,23:00,USD,Low,FOMC Member Logan Speaks,,,
 Tue Oct 6 2026,All Day,CNY,,Bank Holiday,,,
 Tue Oct 6 2026,23:30,JPY,Low,Average Cash Earnings y/y,,,4.3%
+Wed Oct 7 2026,1:05,USD,Low,FOMC Member Williams Speaks,,,
 Wed Oct 7 2026,5:00,JPY,Low,Leading Indicators,,,117.9%
 Wed Oct 7 2026,6:00,EUR,Low,German Industrial Production m/m,,,-1.1%
 Wed Oct 7 2026,6:00,GBP,Low,Lloyds HPI m/m,,,
 Wed Oct 7 2026,6:45,EUR,Low,French Trade Balance,,,-6.7B
 Wed Oct 7 2026,7:00,CHF,Low,Foreign Currency Reserves,,,770B
 Wed Oct 7 2026,Tentative,GBP,Low,30-y Bond Auction,,,
-Wed Oct 7 2026,14:30,USD,Low,Crude Oil Inventories,,,
+Wed Oct 7 2026,14:30,USD,Low,Crude Oil Inventories,,,0.9M
 Wed Oct 7 2026,17:01,USD,Low,10-y Bond Auction,,,4.83|2.7
 Wed Oct 7 2026,18:00,USD,High,FOMC Meeting Minutes,,,
 Wed Oct 7 2026,19:00,USD,Low,Consumer Credit m/m,,,18.1B
@@ -3953,12 +3957,17 @@ Thu Oct 8 2026,3:35,JPY,Low,30-y Bond Auction,,,4.08|3.8
 Thu Oct 8 2026,5:00,JPY,Low,Economy Watchers Sentiment,,,46.4
 Thu Oct 8 2026,6:00,EUR,Low,German Trade Balance,,,21.3B
 Thu Oct 8 2026,8:30,GBP,Low,BOE Credit Conditions Survey,,,
+Thu Oct 8 2026,9:15,GBP,Low,MPC Member Greene Speaks,,,
 Thu Oct 8 2026,All Day,EUR,Low,Eurogroup Meetings,,,
+Thu Oct 8 2026,10:30,GBP,Low,MPC Member Pill Speaks,,,
 Thu Oct 8 2026,11:30,EUR,Low,ECB Monetary Policy Meeting Accounts,,,
+Thu Oct 8 2026,12:15,GBP,High,BOE Gov Bailey Speaks,,,
 Thu Oct 8 2026,12:30,USD,Medium,Unemployment Claims,,,
-Thu Oct 8 2026,14:00,USD,Low,Final Wholesale Inventories m/m,,,
+Thu Oct 8 2026,13:00,GBP,Low,MPC Member Lombardelli Speaks,,,
+Thu Oct 8 2026,14:00,USD,Low,Final Wholesale Inventories m/m,,,0.7%
 Thu Oct 8 2026,14:30,USD,Low,Natural Gas Storage,,,
 Thu Oct 8 2026,17:01,USD,Low,30-y Bond Auction,,,5.31|2.6
+Thu Oct 8 2026,17:40,USD,Low,FOMC Member Musalem Speaks,,,
 Thu Oct 8 2026,23:30,JPY,Low,Household Spending y/y,,,-3.6%
 Fri Oct 9 2026,7:00,CHF,Low,SECO Consumer Climate,,,-33
 Fri Oct 9 2026,8:00,EUR,Low,Italian Industrial Production m/m,,,0.7%
@@ -4016,14 +4025,11 @@ Thu Oct 15 2026,0:30,AUD,High,Employment Change,,,
 Thu Oct 15 2026,0:30,AUD,High,Unemployment Rate,,,
 Thu Oct 15 2026,Tentative,AUD,Low,RBA Annual Report,,,
 Thu Oct 15 2026,6:00,GBP,High,GDP m/m,,,
-Thu Oct 15 2026,6:00,GBP,Medium,Average Earnings Index 3m/y,,,
-Thu Oct 15 2026,6:00,GBP,Medium,Claimant Count Change,,,
 Thu Oct 15 2026,6:00,GBP,Low,Construction Output m/m,,,
 Thu Oct 15 2026,6:00,GBP,Low,Goods Trade Balance,,,
 Thu Oct 15 2026,6:00,GBP,Low,Index of Services 3m/3m,,,
 Thu Oct 15 2026,6:00,GBP,Low,Industrial Production m/m,,,
 Thu Oct 15 2026,6:00,GBP,Low,Manufacturing Production m/m,,,
-Thu Oct 15 2026,6:00,GBP,Low,Unemployment Rate,,,
 Thu Oct 15 2026,6:30,CHF,Low,PPI m/m,,,
 Thu Oct 15 2026,6:45,EUR,Low,French Final CPI m/m,,,
 Thu Oct 15 2026,9:00,EUR,Low,Industrial Production m/m,,,
@@ -4077,6 +4083,9 @@ Mon Oct 19 2026,21:45,NZD,Low,Trade Balance,,,
 Tue Oct 20 2026,1:00,CNY,Low,1-y Loan Prime Rate,,,
 Tue Oct 20 2026,1:00,CNY,Low,5-y Loan Prime Rate,,,
 Tue Oct 20 2026,6:00,EUR,Low,German PPI m/m,,,
+Tue Oct 20 2026,6:00,GBP,Medium,Average Earnings Index 3m/y,,,
+Tue Oct 20 2026,6:00,GBP,Medium,Claimant Count Change,,,
+Tue Oct 20 2026,6:00,GBP,Low,Unemployment Rate,,,
 Tue Oct 20 2026,8:00,EUR,Low,Current Account,,,
 Tue Oct 20 2026,12:15,USD,Low,ADP Weekly Employment Change,,,
 Tue Oct 20 2026,12:30,USD,Low,Building Permits,,,
