@@ -4015,29 +4015,29 @@ Wed Oct 14 2026,2:31,CNY,Low,Trade Balance,906B,790B,809B
 Wed Oct 14 2026,2:31,CNY,Low,USD-Denominated Trade Balance,133.5B,116.8B,119.1B
 Wed Oct 14 2026,3:30,GBP,Low,MPC Member Breeden Speaks,,,
 Wed Oct 14 2026,5:30,GBP,Medium,BOE Gov Bailey Speaks,,,
-Wed Oct 14 2026,6:00,EUR,Low,German WPI m/m,,0.6%,0.9%
+Wed Oct 14 2026,6:00,EUR,Low,German WPI m/m,1.9%,0.6%,0.9%
 Wed Oct 14 2026,6:00,GBP,Low,MPC Member Pill Speaks,,,
 Wed Oct 14 2026,6:05,CAD,Medium,BOC Gov Macklem Speaks,,,
-Wed Oct 14 2026,Tentative,CNY,Low,M2 Money Supply y/y,,7.4%,7.5%
-Wed Oct 14 2026,Tentative,CNY,Low,New Loans,,1025B,60B
 Wed Oct 14 2026,8:30,EUR,Medium,ECB President Lagarde Speaks,,,
-Wed Oct 14 2026,Tentative,EUR,Low,German 30-y Bond Auction,,,3.80|1.6
+Wed Oct 14 2026,9:00,CNY,Low,M2 Money Supply y/y,7.2%,7.4%,7.5%
+Wed Oct 14 2026,9:01,CNY,Low,New Loans,1080B,1025B,60B
+Wed Oct 14 2026,9:38,EUR,Low,German 30-y Bond Auction,3.80|1.4,,3.80|1.6
 Wed Oct 14 2026,9:40,USD,Low,FOMC Member Bowman Speaks,,,
 Wed Oct 14 2026,Day 1,EUR,Medium,EU Economic Summit,,,
-Wed Oct 14 2026,12:30,CAD,Low,Building Permits m/m,,2.9%,-17.3%
-Wed Oct 14 2026,12:30,USD,High,Core CPI m/m,,0.2%,0.3%
-Wed Oct 14 2026,12:30,USD,High,Core CPI y/y,,2.5%,2.4%
-Wed Oct 14 2026,12:30,USD,High,CPI m/m,,0.6%,0.4%
-Wed Oct 14 2026,12:30,USD,High,CPI y/y,,3.6%,3.4%
-Wed Oct 14 2026,13:30,GBP,Low,CB Leading Index m/m,,,-0.1%
+Wed Oct 14 2026,12:30,CAD,Low,Building Permits m/m,8.8%,2.9%,-15.8%
+Wed Oct 14 2026,12:30,USD,High,Core CPI m/m,0.3%,0.2%,0.3%
+Wed Oct 14 2026,12:30,USD,High,Core CPI y/y,2.6%,2.5%,2.4%
+Wed Oct 14 2026,12:30,USD,High,CPI m/m,0.6%,0.6%,0.4%
+Wed Oct 14 2026,12:30,USD,High,CPI y/y,3.7%,3.6%,3.4%
+Wed Oct 14 2026,13:30,GBP,Low,CB Leading Index m/m,-0.1%,,-0.1%
 Wed Oct 14 2026,Day 3,All,Low,IMF Meetings,,,
 Wed Oct 14 2026,17:30,USD,Low,FOMC Member Barkin Speaks,,,
 Wed Oct 14 2026,18:00,USD,Low,Beige Book,,,
 Wed Oct 14 2026,19:00,USD,Low,FOMC Member Goolsbee Speaks,,,
 Wed Oct 14 2026,20:30,USD,Low,API Weekly Statistical Bulletin,,,
-Wed Oct 14 2026,23:50,JPY,Low,Core Machinery Orders m/m,,2.2%,-3.7%
-Thu Oct 15 2026,0:30,AUD,High,Employment Change,,19.6K,39.5K
-Thu Oct 15 2026,0:30,AUD,High,Unemployment Rate,,4.6%,4.6%
+Wed Oct 14 2026,23:50,JPY,Low,Core Machinery Orders m/m,5.2%,2.2%,-3.7%
+Thu Oct 15 2026,0:30,AUD,High,Employment Change,-39.3K,19.6K,29.3K
+Thu Oct 15 2026,0:30,AUD,High,Unemployment Rate,4.7%,4.6%,4.7%
 Thu Oct 15 2026,2:55,USD,Low,FOMC Member Bowman Speaks,,,
 Thu Oct 15 2026,3:35,GBP,Low,MPC Member Pill Speaks,,,
 Thu Oct 15 2026,Tentative,AUD,Low,RBA Annual Report,,,
@@ -4068,8 +4068,8 @@ Thu Oct 15 2026,12:30,USD,Medium,Unemployment Claims,,199K,197K
 Thu Oct 15 2026,12:30,USD,Low,Empire State Manufacturing Index,,12.1,7.6
 Thu Oct 15 2026,14:00,USD,Low,Business Inventories m/m,,0.4%,0.8%
 Thu Oct 15 2026,Day 4,All,Low,IMF Meetings,,,
-Thu Oct 15 2026,14:30,USD,Low,Natural Gas Storage,,,85B
-Thu Oct 15 2026,16:00,USD,Low,Crude Oil Inventories,,,-3.2M
+Thu Oct 15 2026,14:30,USD,Low,Natural Gas Storage,,76B,85B
+Thu Oct 15 2026,16:00,USD,Low,Crude Oil Inventories,,0.2M,-3.2M
 Thu Oct 15 2026,20:30,USD,Low,FOMC Member Hammack Speaks,,,
 Thu Oct 15 2026,21:30,NZD,Low,BusinessNZ Manufacturing Index,,,53.1
 Thu Oct 15 2026,21:45,NZD,Low,FPI m/m,,,0.3%
@@ -4130,9 +4130,11 @@ Tue Oct 20 2026,12:30,USD,Low,Building Permits,,,1.39M
 Tue Oct 20 2026,12:30,USD,Low,Housing Starts,,,1.28M
 Tue Oct 20 2026,14:00,USD,Low,Pending Home Sales m/m,,,0.3%
 Tue Oct 20 2026,Tentative,NZD,Low,GDT Price Index,,,1.2%
+Tue Oct 20 2026,17:00,GBP,Low,MPC Member Greene Speaks,,,
 Tue Oct 20 2026,Tentative,USD,Low,FOMC Financial Stability Report,,,
 Tue Oct 20 2026,Tentative,CAD,Medium,Annual Budget Release,,,
 Tue Oct 20 2026,20:30,USD,Low,API Weekly Statistical Bulletin,,,
+Tue Oct 20 2026,22:30,AUD,Low,RBA Deputy Gov Hauser Speaks,,,
 Tue Oct 20 2026,23:50,JPY,Low,Trade Balance,,,-0.84T
 Wed Oct 21 2026,2:00,NZD,Low,Credit Card Spending y/y,,,3.5%
 Wed Oct 21 2026,6:00,GBP,High,CPI y/y,,,3.1%
@@ -4142,6 +4144,7 @@ Wed Oct 21 2026,6:00,GBP,Low,PPI Output m/m,,,0.7%
 Wed Oct 21 2026,6:00,GBP,Low,Public Sector Net Borrowing,,,18.3B
 Wed Oct 21 2026,6:00,GBP,Low,RPI y/y,,,3.4%
 Wed Oct 21 2026,8:30,GBP,Low,HPI y/y,,,1.4%
+Wed Oct 21 2026,13:00,GBP,High,BOE Gov Bailey Speaks,,,
 Wed Oct 21 2026,14:30,USD,Low,Crude Oil Inventories,,,
 Wed Oct 21 2026,21:45,NZD,High,CPI q/q,,,1.5%
 Thu Oct 22 2026,7:30,CHF,Low,Summary of Monetary Policy Discussions,,,
@@ -4181,6 +4184,7 @@ Sun Oct 25 2026,1:00,EUR,,Daylight Saving Time Shift,,,
 Sun Oct 25 2026,1:00,GBP,,Daylight Saving Time Shift,,,
 Sun Oct 25 2026,Tentative,USD,Low,Fed Monetary Policy Report,,,
 Sun Oct 25 2026,All Day,NZD,,Bank Holiday,,,
+Sun Oct 25 2026,21:40,AUD,Low,RBA Assist Gov Jones Speaks,,,
 Mon Oct 26 2026,9:00,EUR,Low,German ifo Business Climate,,,89.9
 Mon Oct 26 2026,11:00,GBP,Low,CBI Realized Sales,,,-55
 Mon Oct 26 2026,23:50,JPY,Low,SPPI y/y,,,3.7%
@@ -4208,9 +4212,9 @@ Wed Oct 28 2026,7:00,EUR,Low,German GfK Consumer Climate,,,-30.6
 Wed Oct 28 2026,9:00,CHF,Low,UBS Economic Expectations,,,2.6
 Wed Oct 28 2026,28th-30th,EUR,Medium,German Prelim GDP q/q,,,
 Wed Oct 28 2026,Tentative,EUR,Low,German 10-y Bond Auction,,,3.58|1.2
+Wed Oct 28 2026,12:00,GBP,High,Autumn Forecast Statement,,,
 Wed Oct 28 2026,12:30,USD,Low,Goods Trade Balance,,,-132.6B
 Wed Oct 28 2026,12:30,USD,Low,Prelim Wholesale Inventories m/m,,,0.5%
-Wed Oct 28 2026,Tentative,GBP,High,Autumn Forecast Statement,,,
 Wed Oct 28 2026,13:00,CNY,Low,CB Leading Index m/m,,,-0.2%
 Wed Oct 28 2026,13:45,CAD,High,BOC Monetary Policy Report,,,
 Wed Oct 28 2026,13:45,CAD,High,BOC Rate Statement,,,
