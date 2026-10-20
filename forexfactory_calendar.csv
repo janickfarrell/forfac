@@ -4108,16 +4108,15 @@ Mon Oct 19 2026,2:00,CNY,Low,NBS Press Conference,,,
 Mon Oct 19 2026,2:00,CNY,Low,Retail Sales y/y,1.1%,0.5%,0.4%
 Mon Oct 19 2026,2:00,CNY,Low,Unemployment Rate,5.2%,5.3%,5.3%
 Mon Oct 19 2026,4:30,JPY,Low,Tertiary Industry Activity m/m,-0.1%,-0.3%,0.2%
-Mon Oct 19 2026,Tentative,CNY,Low,Foreign Direct Investment ytd/y,,,-5.3%
-Mon Oct 19 2026,12:30,CAD,High,CPI m/m,,0.2%,-0.1%
-Mon Oct 19 2026,12:30,CAD,High,Median CPI y/y,,2.0%,2.0%
-Mon Oct 19 2026,12:30,CAD,High,Trimmed CPI y/y,,1.9%,1.9%
-Mon Oct 19 2026,12:30,CAD,Medium,Common CPI y/y,,2.6%,2.6%
-Mon Oct 19 2026,12:30,CAD,Low,Core CPI m/m,,,0.1%
-Mon Oct 19 2026,14:00,USD,Low,NAHB Housing Market Index,,31,32
+Mon Oct 19 2026,12:30,CAD,High,CPI m/m,0.1%,0.2%,-0.1%
+Mon Oct 19 2026,12:30,CAD,High,Median CPI y/y,1.9%,2.0%,2.0%
+Mon Oct 19 2026,12:30,CAD,High,Trimmed CPI y/y,1.8%,1.9%,1.9%
+Mon Oct 19 2026,12:30,CAD,Medium,Common CPI y/y,2.4%,2.6%,2.6%
+Mon Oct 19 2026,12:30,CAD,Low,Core CPI m/m,0.0%,,0.1%
+Mon Oct 19 2026,14:00,USD,Low,NAHB Housing Market Index,29,31,32
 Mon Oct 19 2026,15:30,CAD,Low,BOC Business Outlook Survey,,,
-Tue Oct 20 2026,1:00,CNY,Low,1-y Loan Prime Rate,,3.00%,3.00%
-Tue Oct 20 2026,1:00,CNY,Low,5-y Loan Prime Rate,,3.50%,3.50%
+Tue Oct 20 2026,1:00,CNY,Low,1-y Loan Prime Rate,3.00%,3.00%,3.00%
+Tue Oct 20 2026,1:00,CNY,Low,5-y Loan Prime Rate,3.50%,3.50%,3.50%
 Tue Oct 20 2026,6:00,EUR,Low,German PPI m/m,,1.5%,1.1%
 Tue Oct 20 2026,6:00,GBP,Medium,Average Earnings Index 3m/y,,3.8%,3.9%
 Tue Oct 20 2026,6:00,GBP,Low,Claimant Count Change,,19.4K,27.8K
@@ -4125,16 +4124,17 @@ Tue Oct 20 2026,6:00,GBP,Low,Unemployment Rate,,4.9%,4.9%
 Tue Oct 20 2026,8:00,EUR,Low,Current Account,,29.2B,27.6B
 Tue Oct 20 2026,9:00,EUR,Low,German ZEW Economic Sentiment,,30.2,34.7
 Tue Oct 20 2026,9:00,EUR,Low,ZEW Economic Sentiment,,23.6,25.8
+Tue Oct 20 2026,Tentative,CNY,Low,Foreign Direct Investment ytd/y,,,-5.3%
 Tue Oct 20 2026,Tentative,GBP,Low,10-y Bond Auction,,,5.38|3.3
 Tue Oct 20 2026,12:15,USD,Low,ADP Weekly Employment Change,,,24.8K
 Tue Oct 20 2026,12:30,USD,Low,Building Permits,,1.39M,1.40M
 Tue Oct 20 2026,12:30,USD,Low,Housing Starts,,1.30M,1.28M
-Tue Oct 20 2026,14:00,USD,Low,Pending Home Sales m/m,,-0.4%,0.3%
+Tue Oct 20 2026,14:00,USD,Low,Pending Home Sales m/m,,-0.7%,0.3%
 Tue Oct 20 2026,Tentative,NZD,Low,GDT Price Index,,,1.2%
 Tue Oct 20 2026,17:00,GBP,Low,MPC Member Greene Speaks,,,
 Tue Oct 20 2026,20:30,USD,Low,API Weekly Statistical Bulletin,,,
 Tue Oct 20 2026,22:30,AUD,Low,RBA Deputy Gov Hauser Speaks,,,
-Tue Oct 20 2026,23:50,JPY,Low,Trade Balance,,-0.21T,-0.84T
+Tue Oct 20 2026,23:50,JPY,Low,Trade Balance,,-0.26T,-0.84T
 Wed Oct 21 2026,2:00,NZD,Low,Credit Card Spending y/y,,,3.5%
 Wed Oct 21 2026,6:00,GBP,High,CPI y/y,,3.4%,3.1%
 Wed Oct 21 2026,6:00,GBP,Low,Core CPI y/y,,2.8%,2.6%
@@ -4281,6 +4281,7 @@ Sun Nov 1 2026,Tentative,USD,Low,FOMC Financial Stability Report,,,
 Mon Nov 2 2026,0:00,AUD,Low,MI Inflation Gauge m/m,,,
 Mon Nov 2 2026,0:30,AUD,Low,ANZ Job Advertisements m/m,,,
 Mon Nov 2 2026,0:30,AUD,Low,Building Approvals m/m,,,
+Mon Nov 2 2026,0:30,JPY,Low,Final Manufacturing PMI,,,
 Mon Nov 2 2026,1:45,CNY,Low,RatingDog Manufacturing PMI,,,
 Mon Nov 2 2026,5:30,AUD,Low,Commodity Prices y/y,,,
 Mon Nov 2 2026,8:15,EUR,Low,Spanish Manufacturing PMI,,,
@@ -4338,7 +4339,6 @@ Wed Nov 4 2026,15:00,USD,Medium,ISM Services PMI,,,
 Wed Nov 4 2026,15:30,USD,Low,Crude Oil Inventories,,,
 Wed Nov 4 2026,23:50,JPY,Low,Monetary Policy Meeting Minutes,,,
 Thu Nov 5 2026,0:30,AUD,Low,Goods Trade Balance,,,
-Thu Nov 5 2026,0:30,JPY,Low,Final Manufacturing PMI,,,
 Thu Nov 5 2026,3:35,JPY,Low,10-y Bond Auction,,,
 Thu Nov 5 2026,7:00,EUR,Low,German Factory Orders m/m,,,
 Thu Nov 5 2026,7:45,EUR,Low,French Industrial Production m/m,,,
@@ -4511,6 +4511,7 @@ Wed Nov 18 2026,19:00,USD,High,FOMC Meeting Minutes,,,
 Wed Nov 18 2026,21:00,USD,Low,TIC Long-Term Purchases,,,
 Wed Nov 18 2026,21:45,NZD,Low,PPI Input q/q,,,
 Wed Nov 18 2026,21:45,NZD,Low,PPI Output q/q,,,
+Wed Nov 18 2026,21:45,NZD,Low,Trade Balance,,,
 Wed Nov 18 2026,23:50,JPY,Low,Core Machinery Orders m/m,,,
 Thu Nov 19 2026,0:30,AUD,High,Employment Change,,,
 Thu Nov 19 2026,0:30,AUD,High,Unemployment Rate,,,
@@ -4522,7 +4523,6 @@ Thu Nov 19 2026,13:30,USD,Medium,Philly Fed Manufacturing Index,,,
 Thu Nov 19 2026,13:30,USD,Medium,Unemployment Claims,,,
 Thu Nov 19 2026,15:00,USD,Low,CB Leading Index m/m,,,
 Thu Nov 19 2026,15:30,USD,Low,Natural Gas Storage,,,
-Thu Nov 19 2026,21:45,NZD,Low,Trade Balance,,,
 Thu Nov 19 2026,23:30,JPY,Low,National Core CPI y/y,,,
 Fri Nov 20 2026,0:01,GBP,Low,GfK Consumer Confidence,,,
 Fri Nov 20 2026,1:00,CNY,Low,1-y Loan Prime Rate,,,
@@ -4536,6 +4536,8 @@ Fri Nov 20 2026,13:30,CAD,Low,Retail Sales m/m,,,
 Fri Nov 20 2026,15:00,EUR,Low,Consumer Confidence,,,
 Fri Nov 20 2026,15:00,USD,Medium,Revised UoM Consumer Sentiment,,,
 Fri Nov 20 2026,15:00,USD,Medium,Revised UoM Inflation Expectations,,,
+Sun Nov 22 2026,21:45,NZD,Low,Core Retail Sales q/q,,,
+Sun Nov 22 2026,21:45,NZD,Low,Retail Sales q/q,,,
 Sun Nov 22 2026,22:00,AUD,Low,Flash Manufacturing PMI,,,
 Sun Nov 22 2026,22:00,AUD,Low,Flash Services PMI,,,
 Mon Nov 23 2026,All Day,JPY,,Bank Holiday,,,
@@ -4583,8 +4585,6 @@ Wed Nov 25 2026,15:00,USD,Low,New Home Sales,,,
 Wed Nov 25 2026,15:30,USD,Low,Crude Oil Inventories,,,
 Wed Nov 25 2026,17:00,USD,Low,Natural Gas Storage,,,
 Wed Nov 25 2026,19:00,USD,Low,Beige Book,,,
-Wed Nov 25 2026,21:45,NZD,Low,Core Retail Sales q/q,,,
-Wed Nov 25 2026,21:45,NZD,Low,Retail Sales q/q,,,
 Thu Nov 26 2026,0:30,AUD,Low,Private Capital Expenditure q/q,,,
 Thu Nov 26 2026,0:30,AUD,Low,RBA Bulletin,,,
 Thu Nov 26 2026,7:00,EUR,Low,German GfK Consumer Climate,,,
@@ -4954,6 +4954,7 @@ Wed Dec 23 2026,13:30,USD,Low,Personal Spending m/m,,,
 Wed Dec 23 2026,15:00,USD,Low,New Home Sales,,,
 Wed Dec 23 2026,15:30,USD,Low,Crude Oil Inventories,,,
 Wed Dec 23 2026,18:30,CAD,Low,BOC Summary of Deliberations,,,
+Wed Dec 23 2026,23:50,JPY,Low,SPPI y/y,,,
 Thu Dec 24 2026,All Day,EUR,,German Bank Holiday,,,
 Thu Dec 24 2026,13:30,USD,Medium,Unemployment Claims,,,
 Thu Dec 24 2026,15:30,USD,Low,Natural Gas Storage,,,
@@ -4988,7 +4989,6 @@ Tue Dec 29 2026,13:15,USD,Low,ADP Weekly Employment Change,,,
 Tue Dec 29 2026,14:00,USD,Low,HPI m/m,,,
 Tue Dec 29 2026,14:00,USD,Low,S&P/CS Composite-20 HPI y/y,,,
 Tue Dec 29 2026,21:30,USD,Low,API Weekly Statistical Bulletin,,,
-Tue Dec 29 2026,23:50,JPY,Low,SPPI y/y,,,
 Wed Dec 30 2026,0:01,GBP,Low,BRC Shop Price Index y/y,,,
 Wed Dec 30 2026,7:00,GBP,Low,Nationwide HPI m/m,,,
 Wed Dec 30 2026,7:30,CHF,Low,Retail Sales y/y,,,
