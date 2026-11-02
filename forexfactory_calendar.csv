@@ -4281,12 +4281,11 @@ Sat Oct 31 2026,1:30,CNY,Low,Manufacturing PMI,49.3,49.9,50.1
 Sat Oct 31 2026,1:30,CNY,Low,Non-Manufacturing PMI,49.7,50.0,50.2
 Sun Nov 1 2026,7:00,CAD,,Daylight Saving Time Shift,,,
 Sun Nov 1 2026,7:00,USD,,Daylight Saving Time Shift,,,
-Mon Nov 2 2026,0:00,AUD,Low,MI Inflation Gauge m/m,,,0.3%
-Mon Nov 2 2026,0:30,AUD,Low,Building Approvals m/m,,1.8%,-6.1%
-Mon Nov 2 2026,0:30,JPY,Low,Final Manufacturing PMI,,53.3,53.3
-Mon Nov 2 2026,Tentative,AUD,Low,ANZ Job Advertisements m/m,,,2.2%
-Mon Nov 2 2026,1:45,CNY,Low,RatingDog Manufacturing PMI,,52.0,52.1
-Mon Nov 2 2026,5:30,AUD,Low,Commodity Prices y/y,,,15.5%
+Mon Nov 2 2026,0:00,AUD,Low,MI Inflation Gauge m/m,0.5%,,0.3%
+Mon Nov 2 2026,0:30,AUD,Low,Building Approvals m/m,5.1%,1.8%,-5.2%
+Mon Nov 2 2026,0:30,JPY,Low,Final Manufacturing PMI,53.3,53.3,53.3
+Mon Nov 2 2026,1:45,CNY,Low,RatingDog Manufacturing PMI,52.0,52.0,52.1
+Mon Nov 2 2026,5:30,AUD,Low,Commodity Prices y/y,12.5%,,15.9%
 Mon Nov 2 2026,7:00,EUR,Low,German Retail Sales m/m,,0.4%,1.3%
 Mon Nov 2 2026,7:30,CHF,Low,Retail Sales y/y,,3.0%,3.2%
 Mon Nov 2 2026,8:15,EUR,Low,Spanish Manufacturing PMI,,50.4,51.0
@@ -4299,8 +4298,8 @@ Mon Nov 2 2026,9:30,GBP,Low,Final Manufacturing PMI,,52.8,52.8
 Mon Nov 2 2026,12:00,EUR,Low,German Buba President Nagel Speaks,,,
 Mon Nov 2 2026,14:30,CAD,Low,Manufacturing PMI,,,51.5
 Mon Nov 2 2026,14:45,USD,Low,Final Manufacturing PMI,,56.0,56.0
-Mon Nov 2 2026,15:00,USD,Medium,ISM Manufacturing PMI,,54.7,54.5
-Mon Nov 2 2026,15:00,USD,Low,Construction Spending m/m,,0.3%,0.9%
+Mon Nov 2 2026,15:00,USD,Medium,ISM Manufacturing PMI,,54.5,54.5
+Mon Nov 2 2026,15:00,USD,Low,Construction Spending m/m,,0.4%,0.9%
 Mon Nov 2 2026,15:00,USD,Low,ISM Manufacturing Prices,,77.2,77.9
 Mon Nov 2 2026,Tentative,USD,Low,Loan Officer Survey,,,
 Mon Nov 2 2026,21:45,NZD,Low,Building Consents m/m,,,5.6%
@@ -4732,7 +4731,8 @@ Fri Dec 4 2026,13:30,USD,High,Unemployment Rate,,,
 Fri Dec 4 2026,15:00,CAD,Medium,Ivey PMI,,,
 Fri Dec 4 2026,15:00,USD,Medium,Prelim UoM Consumer Sentiment,,,
 Fri Dec 4 2026,15:00,USD,Medium,Prelim UoM Inflation Expectations,,,
-Mon Dec 7 2026,0:30,AUD,Low,ANZ Job Advertisements m/m,,,
+Mon Dec 7 2026,0:30,AUD,Low,ANZ Job Advertisements m/m,,,2.2%
+Mon Dec 7 2026,Oct Data,AUD,Low,ANZ Job Advertisements m/m,,,
 Mon Dec 7 2026,5:00,JPY,Low,Leading Indicators,,,
 Mon Dec 7 2026,7th-11th,JPY,Low,Prelim Machine Tool Orders y/y,,,
 Mon Dec 7 2026,7:00,EUR,Low,German Factory Orders m/m,,,
