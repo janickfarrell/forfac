@@ -4422,18 +4422,16 @@ Tue Nov 10 2026,3:35,JPY,Low,30-y Bond Auction,3.85|3.4,,4.11|3.9
 Tue Nov 10 2026,5:00,JPY,Low,Economy Watchers Sentiment,46.1,47.1,47.0
 Tue Nov 10 2026,8:30,GBP,Low,MPC Member Breeden Speaks,,,
 Tue Nov 10 2026,9:00,USD,Medium,FOMC Member Waller Speaks,,,
-Tue Nov 10 2026,Tentative,CNY,Low,M2 Money Supply y/y,,7.2%,7.2%
-Tue Nov 10 2026,Tentative,CNY,Low,New Loans,,80B,1080B
 Tue Nov 10 2026,Day 2,All,Low,G7 Meetings,,,
-Tue Nov 10 2026,11:00,USD,Low,NFIB Small Business Index,,98.0,97.9
-Tue Nov 10 2026,Tentative,GBP,Low,30-y Bond Auction,,,5.52|3.8
+Tue Nov 10 2026,10:02,GBP,Low,30-y Bond Auction,5.54|3.8,,5.52|3.8
+Tue Nov 10 2026,11:00,USD,Low,NFIB Small Business Index,97.8,98.0,97.9
 Tue Nov 10 2026,12:30,GBP,Low,MPC Member Lombardelli Speaks,,,
-Tue Nov 10 2026,13:15,USD,Low,ADP Weekly Employment Change,,,
-Tue Nov 10 2026,Oct 17th,USD,Low,ADP Weekly Employment Change,,,16.8K
-Tue Nov 10 2026,13:30,USD,High,Core CPI m/m,,0.2%,0.3%
-Tue Nov 10 2026,13:30,USD,High,CPI m/m,,0.3%,0.6%
+Tue Nov 10 2026,Oct 17th,USD,Low,ADP Weekly Employment Change,19.5K,,16.8K
+Tue Nov 10 2026,13:15,USD,Low,ADP Weekly Employment Change,19.8K,,19.5K
+Tue Nov 10 2026,13:30,USD,High,Core CPI m/m,0.3%,0.2%,0.3%
+Tue Nov 10 2026,13:30,USD,High,CPI m/m,0.4%,0.3%,0.6%
 Tue Nov 10 2026,15:50,USD,Low,FOMC Member Logan Speaks,,,
-Tue Nov 10 2026,18:01,USD,Low,10-y Bond Auction,,,5.30|2.8
+Tue Nov 10 2026,18:01,USD,Low,10-y Bond Auction,5.02|2.5,,5.30|2.8
 Tue Nov 10 2026,18:30,CAD,Low,BOC Summary of Deliberations,,,
 Tue Nov 10 2026,18:30,GBP,Low,MPC Member Pill Speaks,,,
 Tue Nov 10 2026,18:30,USD,Low,FOMC Member Schmid Speaks,,,
@@ -4441,12 +4439,14 @@ Tue Nov 10 2026,20:30,USD,Low,FOMC Member Bowman Speaks,,,
 Tue Nov 10 2026,21:30,USD,Low,API Weekly Statistical Bulletin,,,
 Tue Nov 10 2026,23:30,USD,Low,FOMC Member Bowman Speaks,,,
 Tue Nov 10 2026,23:30,USD,Low,FOMC Member Paulson Speaks,,,
-Tue Nov 10 2026,23:50,JPY,Low,M2 Money Stock y/y,,2.1%,2.0%
+Tue Nov 10 2026,23:50,JPY,Low,M2 Money Stock y/y,1.7%,2.1%,1.9%
 Wed Nov 11 2026,6:00,JPY,Low,Prelim Machine Tool Orders y/y,,,60.4%
 Wed Nov 11 2026,7:00,EUR,Low,German Final CPI m/m,,-0.2%,-0.2%
 Wed Nov 11 2026,All Day,EUR,,French Bank Holiday,,,
 Wed Nov 11 2026,8:15,EUR,Low,German Buba President Nagel Speaks,,,
 Wed Nov 11 2026,9:00,EUR,Low,Italian Industrial Production m/m,,0.7%,-1.3%
+Wed Nov 11 2026,Tentative,CNY,Low,M2 Money Supply y/y,,7.2%,7.2%
+Wed Nov 11 2026,Tentative,CNY,Low,New Loans,,80B,1080B
 Wed Nov 11 2026,9:45,EUR,Medium,ECB President Lagarde Speaks,,,
 Wed Nov 11 2026,Tentative,EUR,Low,German 30-y Bond Auction,,,3.80|1.4
 Wed Nov 11 2026,All Day,CAD,,Bank Holiday,,,
@@ -4472,12 +4472,12 @@ Thu Nov 12 2026,15:00,USD,Low,FOMC Member Barr Speaks,,,
 Thu Nov 12 2026,Tentative,USD,Low,Mortgage Delinquencies,,,4.37%
 Thu Nov 12 2026,15:30,AUD,Low,CB Leading Index m/m,,,-0.3%
 Thu Nov 12 2026,16:15,USD,Low,FOMC Member Goolsbee Speaks,,,
-Thu Nov 12 2026,17:00,USD,Low,Crude Oil Inventories,,,-0.9M
+Thu Nov 12 2026,17:00,USD,Low,Crude Oil Inventories,,-0.6M,-0.9M
 Thu Nov 12 2026,17:30,EUR,Low,German Buba President Nagel Speaks,,,
 Thu Nov 12 2026,18:01,USD,Low,30-y Bond Auction,,,5.62|2.5
 Thu Nov 12 2026,18:10,USD,Low,FOMC Member Daly Speaks,,,
 Thu Nov 12 2026,18:30,USD,Low,FOMC Member Schmid Speaks,,,
-Thu Nov 12 2026,19:00,USD,Low,Federal Budget Balance,,-286.3B,-26.9B
+Thu Nov 12 2026,19:00,USD,Low,Federal Budget Balance,,-298.6B,-26.9B
 Thu Nov 12 2026,19:30,EUR,Medium,ECB President Lagarde Speaks,,,
 Thu Nov 12 2026,21:30,NZD,Low,BusinessNZ Manufacturing Index,,,56.5
 Thu Nov 12 2026,23:30,USD,Low,FOMC Member Williams Speaks,,,
@@ -4494,7 +4494,8 @@ Fri Nov 13 2026,13:30,USD,High,Core PPI m/m,,0.3%,0.7%
 Fri Nov 13 2026,13:30,USD,High,PPI m/m,,0.4%,1.3%
 Fri Nov 13 2026,14:10,USD,Low,FOMC Member Collins Speaks,,,
 Fri Nov 13 2026,14:30,GBP,Low,CB Leading Index m/m,,,-0.1%
-Fri Nov 13 2026,15:30,USD,Low,Natural Gas Storage,,,77B
+Fri Nov 13 2026,14:40,USD,Low,FOMC Member Logan Speaks,,,
+Fri Nov 13 2026,15:30,USD,Low,Natural Gas Storage,,65B,77B
 Fri Nov 13 2026,15:50,USD,Low,FOMC Member Bowman Speaks,,,
 Fri Nov 13 2026,16:00,EUR,Low,German Buba President Nagel Speaks,,,
 Fri Nov 13 2026,17:00,USD,Low,FOMC Member Daly Speaks,,,
