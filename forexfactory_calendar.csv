@@ -4453,33 +4453,30 @@ Wed Nov 11 2026,21:45,NZD,Low,Visitor Arrivals m/m,2.6%,,3.0%
 Wed Nov 11 2026,23:50,JPY,Low,PPI y/y,7.1%,6.5%,6.8%
 Thu Nov 12 2026,0:00,AUD,Low,MI Inflation Expectations,5.3%,,5.3%
 Thu Nov 12 2026,0:01,GBP,Low,RICS House Price Balance,-36%,-33%,-34%
-Thu Nov 12 2026,7:00,GBP,High,GDP m/m,0.2%,0.0%,0.1%
+Thu Nov 12 2026,7:00,GBP,High,GDP m/m,0.2%,0.0%,0.0%
 Thu Nov 12 2026,7:00,GBP,Medium,Prelim GDP q/q,0.7%,0.7%,0.5%
-Thu Nov 12 2026,7:00,GBP,Low,Construction Output m/m,0.8%,0.0%,-0.2%
-Thu Nov 12 2026,7:00,GBP,Low,Goods Trade Balance,-22.3B,-19.2B,-18.0B
+Thu Nov 12 2026,7:00,GBP,Low,Construction Output m/m,0.8%,0.0%,-0.5%
+Thu Nov 12 2026,7:00,GBP,Low,Goods Trade Balance,-22.3B,-19.2B,-19.6B
 Thu Nov 12 2026,7:00,GBP,Low,Index of Services 3m/3m,0.9%,0.9%,0.9%
-Thu Nov 12 2026,7:00,GBP,Low,Industrial Production m/m,0.3%,-0.4%,0.8%
-Thu Nov 12 2026,7:00,GBP,Low,Manufacturing Production m/m,0.7%,-0.5%,1.2%
+Thu Nov 12 2026,7:00,GBP,Low,Industrial Production m/m,0.3%,-0.4%,0.7%
+Thu Nov 12 2026,7:00,GBP,Low,Manufacturing Production m/m,0.7%,-0.5%,0.7%
 Thu Nov 12 2026,7:00,GBP,Low,Prelim Business Investment q/q,0.4%,0.4%,1.8%
 Thu Nov 12 2026,9:00,EUR,Low,ECB Economic Bulletin,,,
-Thu Nov 12 2026,Tentative,CNY,Low,M2 Money Supply y/y,,7.2%,7.2%
-Thu Nov 12 2026,Tentative,CNY,Low,New Loans,,80B,1080B
-Thu Nov 12 2026,13:30,CAD,Low,Building Permits m/m,,-4.0%,8.8%
-Thu Nov 12 2026,13:30,USD,Medium,Unemployment Claims,,194K,189K
+Thu Nov 12 2026,13:30,CAD,Low,Building Permits m/m,-4.1%,-4.0%,7.6%
+Thu Nov 12 2026,13:30,USD,Medium,Unemployment Claims,200K,194K,191K
 Thu Nov 12 2026,13:30,USD,Low,FOMC Member Hammack Speaks,,,
-Thu Nov 12 2026,15:00,USD,Low,Existing Home Sales,,3.89M,3.99M
+Thu Nov 12 2026,15:00,USD,Low,Existing Home Sales,3.75M,3.89M,3.97M
 Thu Nov 12 2026,15:00,USD,Low,FOMC Member Barr Speaks,,,
-Thu Nov 12 2026,Tentative,USD,Low,Mortgage Delinquencies,,,4.37%
-Thu Nov 12 2026,15:30,AUD,Low,CB Leading Index m/m,,,-0.3%
+Thu Nov 12 2026,15:30,AUD,Low,CB Leading Index m/m,0.0%,,-0.5%
 Thu Nov 12 2026,16:15,USD,Low,FOMC Member Goolsbee Speaks,,,
-Thu Nov 12 2026,17:00,USD,Low,Crude Oil Inventories,,-0.6M,-0.9M
+Thu Nov 12 2026,17:00,USD,Low,Crude Oil Inventories,4.7M,-0.6M,-0.9M
 Thu Nov 12 2026,17:30,EUR,Low,German Buba President Nagel Speaks,,,
-Thu Nov 12 2026,18:01,USD,Low,30-y Bond Auction,,,5.62|2.5
+Thu Nov 12 2026,18:01,USD,Low,30-y Bond Auction,5.44|2.4,,5.62|2.5
 Thu Nov 12 2026,18:10,USD,Low,FOMC Member Daly Speaks,,,
 Thu Nov 12 2026,18:30,USD,Low,FOMC Member Schmid Speaks,,,
-Thu Nov 12 2026,19:00,USD,Low,Federal Budget Balance,,-298.6B,-26.9B
+Thu Nov 12 2026,19:00,USD,Low,Federal Budget Balance,-404.1B,-298.6B,-26.9B
 Thu Nov 12 2026,19:30,EUR,Medium,ECB President Lagarde Speaks,,,
-Thu Nov 12 2026,21:30,NZD,Low,BusinessNZ Manufacturing Index,,,56.5
+Thu Nov 12 2026,21:30,NZD,Low,BusinessNZ Manufacturing Index,54.9,,56.3
 Thu Nov 12 2026,23:30,USD,Low,FOMC Member Williams Speaks,,,
 Fri Nov 13 2026,7:00,EUR,Low,German WPI m/m,,0.4%,1.9%
 Fri Nov 13 2026,7:30,CHF,Low,PPI m/m,,0.2%,0.3%
@@ -4488,6 +4485,8 @@ Fri Nov 13 2026,9:00,EUR,Low,Italian Trade Balance,,2.84B,1.77B
 Fri Nov 13 2026,10:00,EUR,Low,Flash Employment Change q/q,,0.2%,0.1%
 Fri Nov 13 2026,10:00,EUR,Low,Flash GDP q/q,,0.4%,0.4%
 Fri Nov 13 2026,10:00,EUR,Low,Trade Balance,,-4.5B,-6.8B
+Fri Nov 13 2026,Tentative,CNY,Low,M2 Money Supply y/y,,7.2%,7.2%
+Fri Nov 13 2026,Tentative,CNY,Low,New Loans,,80B,1080B
 Fri Nov 13 2026,13:30,CAD,Low,Manufacturing Sales m/m,,0.1%,1.5%
 Fri Nov 13 2026,13:30,CAD,Low,Wholesale Sales m/m,,0.5%,-1.6%
 Fri Nov 13 2026,13:30,USD,High,Core PPI m/m,,0.3%,0.7%
@@ -4495,6 +4494,7 @@ Fri Nov 13 2026,13:30,USD,High,PPI m/m,,0.4%,1.3%
 Fri Nov 13 2026,14:10,USD,Low,FOMC Member Collins Speaks,,,
 Fri Nov 13 2026,14:30,GBP,Low,CB Leading Index m/m,,,-0.1%
 Fri Nov 13 2026,14:40,USD,Low,FOMC Member Logan Speaks,,,
+Fri Nov 13 2026,Tentative,USD,Low,Mortgage Delinquencies,,,4.37%
 Fri Nov 13 2026,15:30,USD,Low,Natural Gas Storage,,65B,77B
 Fri Nov 13 2026,15:50,USD,Low,FOMC Member Bowman Speaks,,,
 Fri Nov 13 2026,16:00,EUR,Low,German Buba President Nagel Speaks,,,
@@ -4502,19 +4502,17 @@ Fri Nov 13 2026,17:00,USD,Low,FOMC Member Daly Speaks,,,
 Sat Nov 14 2026,0:00,USD,Low,FOMC Member Jefferson Speaks,,,
 Sat Nov 14 2026,11:00,GBP,Low,MPC Member Greene Speaks,,,
 Sun Nov 15 2026,21:30,NZD,Low,BusinessNZ Services Index,,,50.9
-Sun Nov 15 2026,23:50,JPY,Low,Prelim GDP Price Index y/y,,,2.6%
-Sun Nov 15 2026,23:50,JPY,Low,Prelim GDP q/q,,,0.4%
+Sun Nov 15 2026,23:50,JPY,Low,Prelim GDP Price Index y/y,,2.6%,2.6%
+Sun Nov 15 2026,23:50,JPY,Low,Prelim GDP q/q,,0.1%,0.4%
 Mon Nov 16 2026,0:01,GBP,Low,Rightmove HPI m/m,,,1.0%
-Mon Nov 16 2026,1:30,CNY,Low,New Home Prices m/m,,,
-Mon Nov 16 2026,2:00,CNY,Low,Fixed Asset Investment ytd/y,,,-7.2%
-Mon Nov 16 2026,2:00,CNY,Low,Industrial Production y/y,,,5.5%
+Mon Nov 16 2026,1:30,CNY,Low,New Home Prices m/m,,,-0.14%
+Mon Nov 16 2026,2:00,CNY,Low,Fixed Asset Investment ytd/y,,-6.9%,-7.2%
+Mon Nov 16 2026,2:00,CNY,Low,Industrial Production y/y,,5.3%,5.5%
 Mon Nov 16 2026,2:00,CNY,Low,NBS Press Conference,,,
-Mon Nov 16 2026,2:00,CNY,Low,Retail Sales y/y,,,1.1%
-Mon Nov 16 2026,2:00,CNY,Low,Unemployment Rate,,,5.2%
-Mon Nov 16 2026,4:30,JPY,Low,Revised Industrial Production m/m,,,2.2%
+Mon Nov 16 2026,2:00,CNY,Low,Retail Sales y/y,,0.8%,1.1%
+Mon Nov 16 2026,2:00,CNY,Low,Unemployment Rate,,5.2%,5.2%
+Mon Nov 16 2026,4:30,JPY,Low,Revised Industrial Production m/m,,2.2%,2.2%
 Mon Nov 16 2026,10:00,EUR,Low,Industrial Production m/m,,,-0.5%
-Mon Nov 16 2026,Tentative,EUR,Low,German 10-y Bond Auction,,,
-Mon Nov 16 2026,Tentative,EUR,Low,German Buba Monthly Report,,,
 Mon Nov 16 2026,13:30,CAD,High,CPI m/m,,,0.1%
 Mon Nov 16 2026,13:30,CAD,High,Median CPI y/y,,,1.9%
 Mon Nov 16 2026,13:30,CAD,High,Trimmed CPI y/y,,,1.8%
@@ -4526,7 +4524,7 @@ Mon Nov 16 2026,Tentative,USD,Low,Cleveland Fed Inflation Expectations,,,3.3%
 Mon Nov 16 2026,17:00,USD,High,Fed Chairman Warsh Speaks,,,
 Mon Nov 16 2026,20:00,NZD,Low,RBNZ Financial Stability Report,,,
 Mon Nov 16 2026,21:45,NZD,Low,FPI m/m,,,0.0%
-Mon Nov 16 2026,23:00,AUD,High,RBA Gov Bullock Speaks,,,
+Mon Nov 16 2026,22:50,AUD,High,RBA Gov Bullock Speaks,,,
 Tue Nov 17 2026,0:30,AUD,Low,Monetary Policy Meeting Minutes,,,
 Tue Nov 17 2026,2:00,NZD,High,Inflation Expectations q/q,,,2.34%
 Tue Nov 17 2026,4:30,JPY,Low,Tertiary Industry Activity m/m,,,-0.1%
@@ -4538,7 +4536,7 @@ Tue Nov 17 2026,10:00,EUR,Low,ZEW Economic Sentiment,,,18.5
 Tue Nov 17 2026,10:00,EUR,Low,German ZEW Economic Sentiment,,,28.1
 Tue Nov 17 2026,12:30,USD,Low,FOMC Member Musalem Speaks,,,
 Tue Nov 17 2026,13:15,CAD,Low,Housing Starts,,,249K
-Tue Nov 17 2026,13:15,USD,Low,ADP Weekly Employment Change,,,
+Tue Nov 17 2026,13:15,USD,Low,ADP Weekly Employment Change,,,19.8K
 Tue Nov 17 2026,13:30,CAD,Low,Foreign Securities Purchases,,,-17.31B
 Tue Nov 17 2026,13:30,USD,High,Core Retail Sales m/m,,,0.9%
 Tue Nov 17 2026,13:30,USD,High,Retail Sales m/m,,,0.8%
@@ -4549,48 +4547,57 @@ Tue Nov 17 2026,14:30,USD,Low,FOMC Member Hammack Speaks,,,
 Tue Nov 17 2026,15:00,USD,Low,Business Inventories m/m,,,0.4%
 Tue Nov 17 2026,15:00,USD,Low,NAHB Housing Market Index,,,29
 Tue Nov 17 2026,Tentative,NZD,Low,GDT Price Index,,,3.0%
+Tue Nov 17 2026,19:25,USD,Low,FOMC Member Williams Speaks,,,
 Tue Nov 17 2026,21:30,USD,Low,API Weekly Statistical Bulletin,,,
 Tue Nov 17 2026,21:45,NZD,Low,PPI Input q/q,,,2.9%
 Tue Nov 17 2026,21:45,NZD,Low,PPI Output q/q,,,1.6%
 Tue Nov 17 2026,23:30,AUD,Low,MI Leading Index m/m,,,-0.1%
 Tue Nov 17 2026,23:50,JPY,Low,Trade Balance,,,-0.70T
 Wed Nov 18 2026,0:30,AUD,Medium,Wage Price Index q/q,,,0.8%
+Wed Nov 18 2026,2:45,EUR,Low,German Buba President Nagel Speaks,,,
 Wed Nov 18 2026,7:00,GBP,High,CPI y/y,,,3.5%
 Wed Nov 18 2026,7:00,GBP,Low,Core CPI y/y,,,2.8%
 Wed Nov 18 2026,7:00,GBP,Low,PPI Input m/m,,,1.5%
 Wed Nov 18 2026,7:00,GBP,Low,PPI Output m/m,,,0.8%
 Wed Nov 18 2026,7:00,GBP,Low,RPI y/y,,,3.9%
-Wed Nov 18 2026,Tentative,CNY,Low,Foreign Direct Investment ytd/y,,,
+Wed Nov 18 2026,Tentative,CNY,Low,Foreign Direct Investment ytd/y,,,-4.3%
 Wed Nov 18 2026,7:30,GBP,High,BOE Gov Bailey Speaks,,,
 Wed Nov 18 2026,9:00,EUR,Medium,ECB Financial Stability Review,,,
 Wed Nov 18 2026,9:30,GBP,Low,HPI y/y,,,0.9%
 Wed Nov 18 2026,10:00,EUR,Low,Final Core CPI y/y,,,2.5%
 Wed Nov 18 2026,10:00,EUR,Low,Final CPI y/y,,,4.0%
-Wed Nov 18 2026,Tentative,GBP,Low,CBI Industrial Order Expectations,,,-32
+Wed Nov 18 2026,13:30,CAD,Low,NHPI m/m,,,
 Wed Nov 18 2026,13:30,USD,Low,Building Permits,,,1.40M
 Wed Nov 18 2026,13:30,USD,Low,Housing Starts,,,1.22M
 Wed Nov 18 2026,15:00,GBP,High,BOE Gov Bailey Speaks,,,
 Wed Nov 18 2026,15:00,USD,Low,Pending Home Sales m/m,,,-7.3%
-Wed Nov 18 2026,15:30,USD,Low,Crude Oil Inventories,,,
+Wed Nov 18 2026,15:30,USD,Low,Crude Oil Inventories,,,4.7M
 Wed Nov 18 2026,18:00,NZD,Medium,RBNZ Gov Breman Speaks,,,
+Wed Nov 18 2026,18:30,CAD,Low,Gov Council Member Gravelle Speaks,,,
+Wed Nov 18 2026,18:35,USD,Low,FOMC Member Barr Speaks,,,
 Wed Nov 18 2026,19:00,USD,High,FOMC Meeting Minutes,,,
 Wed Nov 18 2026,19:30,USD,Low,FOMC Member Williams Speaks,,,
 Wed Nov 18 2026,21:00,USD,Low,TIC Long-Term Purchases,,,279.2B
+Wed Nov 18 2026,21:15,USD,Low,FOMC Member Kashkari Speaks,,,
 Wed Nov 18 2026,21:45,NZD,Low,Trade Balance,,,-1971M
 Wed Nov 18 2026,23:50,JPY,Low,Core Machinery Orders m/m,,,5.2%
 Thu Nov 19 2026,0:30,AUD,High,Employment Change,,,-39.3K
 Thu Nov 19 2026,0:30,AUD,High,Unemployment Rate,,,4.7%
 Thu Nov 19 2026,9:00,EUR,Low,Current Account,,,8.7B
+Thu Nov 19 2026,11:00,EUR,Low,German Buba Monthly Report,,,
+Thu Nov 19 2026,11:00,GBP,Low,CBI Industrial Order Expectations,,,-32
 Thu Nov 19 2026,12:15,GBP,Low,MPC Member Dhingra Speaks,,,
 Thu Nov 19 2026,13:30,CAD,Low,IPPI m/m,,,2.0%
 Thu Nov 19 2026,13:30,CAD,Low,RMPI m/m,,,4.8%
 Thu Nov 19 2026,13:30,EUR,Medium,ECB President Lagarde Speaks,,,
 Thu Nov 19 2026,13:30,USD,Medium,Philly Fed Manufacturing Index,,,20.9
-Thu Nov 19 2026,13:30,USD,Medium,Unemployment Claims,,,
+Thu Nov 19 2026,13:30,USD,Medium,Unemployment Claims,,,200K
 Thu Nov 19 2026,13:50,USD,Low,FOMC Member Hammack Speaks,,,
 Thu Nov 19 2026,15:00,USD,Low,CB Leading Index m/m,,,0.0%
 Thu Nov 19 2026,15:30,USD,Low,Natural Gas Storage,,,
 Thu Nov 19 2026,17:30,USD,Low,FOMC Member Goolsbee Speaks,,,
+Thu Nov 19 2026,19:00,USD,Low,FOMC Member Barkin Speaks,,,
+Thu Nov 19 2026,19:15,USD,Low,FOMC Member Barr Speaks,,,
 Thu Nov 19 2026,23:30,JPY,Low,National Core CPI y/y,,,2.1%
 Thu Nov 19 2026,23:30,USD,Low,FOMC Member Paulson Speaks,,,
 Fri Nov 20 2026,0:01,GBP,Low,GfK Consumer Confidence,,,-24
@@ -4603,13 +4610,10 @@ Fri Nov 20 2026,7:00,GBP,Low,Public Sector Net Borrowing,,,24.5B
 Fri Nov 20 2026,8:15,EUR,Medium,ECB President Lagarde Speaks,,,
 Fri Nov 20 2026,13:00,EUR,Low,German Buba President Nagel Speaks,,,
 Fri Nov 20 2026,13:30,CAD,Low,Core Retail Sales m/m,,,1.2%
-Fri Nov 20 2026,13:30,CAD,Low,NHPI m/m,,,
 Fri Nov 20 2026,13:30,CAD,Low,Retail Sales m/m,,,1.2%
 Fri Nov 20 2026,15:00,EUR,Low,Consumer Confidence,,,-18
 Fri Nov 20 2026,15:00,USD,Medium,Revised UoM Consumer Sentiment,,,51.0
 Fri Nov 20 2026,15:00,USD,Medium,Revised UoM Inflation Expectations,,,4.3%
-Fri Nov 20 2026,Tentative,USD,Low,Fed Monetary Policy Report,,,
-Fri Nov 20 2026,Tentative,USD,Medium,Treasury Currency Report,,,
 Sun Nov 22 2026,21:45,NZD,Low,Core Retail Sales q/q,,,
 Sun Nov 22 2026,21:45,NZD,Low,Retail Sales q/q,,,
 Sun Nov 22 2026,22:00,AUD,Low,Flash Manufacturing PMI,,,
@@ -4624,6 +4628,7 @@ Mon Nov 23 2026,9:00,EUR,Low,Flash Manufacturing PMI,,,
 Mon Nov 23 2026,9:00,EUR,Low,Flash Services PMI,,,
 Mon Nov 23 2026,9:30,GBP,Medium,Flash Manufacturing PMI,,,
 Mon Nov 23 2026,9:30,GBP,Medium,Flash Services PMI,,,
+Mon Nov 23 2026,Tentative,EUR,Low,German 10-y Bond Auction,,,
 Mon Nov 23 2026,23rd-27th,GBP,Low,CBI Realized Sales,,,
 Mon Nov 23 2026,13:30,CAD,Low,Corporate Profits q/q,,,
 Mon Nov 23 2026,14:45,USD,Medium,Flash Manufacturing PMI,,,
@@ -4778,6 +4783,8 @@ Fri Dec 4 2026,13:30,USD,High,Unemployment Rate,,,
 Fri Dec 4 2026,15:00,CAD,Low,Ivey PMI,,,
 Fri Dec 4 2026,15:00,USD,Medium,Prelim UoM Consumer Sentiment,,,
 Fri Dec 4 2026,15:00,USD,Medium,Prelim UoM Inflation Expectations,,,
+Fri Dec 4 2026,Tentative,USD,Low,Fed Monetary Policy Report,,,
+Fri Dec 4 2026,Tentative,USD,Medium,Treasury Currency Report,,,
 Mon Dec 7 2026,0:30,AUD,Low,ANZ Job Advertisements m/m,,,
 Mon Dec 7 2026,Oct data,AUD,Low,ANZ Job Advertisements m/m,,,2.2%
 Mon Dec 7 2026,5:00,JPY,Low,Leading Indicators,,,
