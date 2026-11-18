@@ -4537,35 +4537,35 @@ Tue Nov 17 2026,7:00,GBP,Medium,Average Earnings Index 3m/y,3.6%,3.5%,3.8%
 Tue Nov 17 2026,7:00,GBP,Low,Claimant Count Change,33.2K,25.4K,9.8K
 Tue Nov 17 2026,7:00,GBP,Low,Unemployment Rate,4.6%,4.7%,4.7%
 Tue Nov 17 2026,10:00,EUR,Low,EU Economic Forecasts,,,
-Tue Nov 17 2026,10:00,EUR,Low,ZEW Economic Sentiment,,19.1,18.5
-Tue Nov 17 2026,10:00,EUR,Low,German ZEW Economic Sentiment,,28.8,28.1
+Tue Nov 17 2026,10:00,EUR,Low,ZEW Economic Sentiment,26.5,19.1,18.5
+Tue Nov 17 2026,10:00,EUR,Low,German ZEW Economic Sentiment,35.6,28.8,28.1
 Tue Nov 17 2026,12:30,USD,Low,FOMC Member Musalem Speaks,,,
-Tue Nov 17 2026,13:15,CAD,Low,Housing Starts,,241K,249K
-Tue Nov 17 2026,13:15,USD,Low,ADP Weekly Employment Change,,,19.8K
-Tue Nov 17 2026,13:30,CAD,Low,Foreign Securities Purchases,,14.85B,-17.31B
-Tue Nov 17 2026,13:30,USD,High,Core Retail Sales m/m,,0.4%,0.9%
-Tue Nov 17 2026,13:30,USD,High,Retail Sales m/m,,0.1%,0.8%
-Tue Nov 17 2026,13:30,USD,Low,Import Prices m/m,,0.7%,1.1%
+Tue Nov 17 2026,13:15,CAD,Low,Housing Starts,245K,241K,250K
+Tue Nov 17 2026,13:15,USD,Low,ADP Weekly Employment Change,23.8K,,19.3K
+Tue Nov 17 2026,13:30,CAD,Low,Foreign Securities Purchases,19.46B,14.85B,-16.53B
+Tue Nov 17 2026,13:30,USD,High,Core Retail Sales m/m,0.6%,0.4%,1.1%
+Tue Nov 17 2026,13:30,USD,High,Retail Sales m/m,0.2%,0.1%,0.8%
+Tue Nov 17 2026,13:30,USD,Low,Import Prices m/m,1.1%,0.7%,1.1%
 Tue Nov 17 2026,14:10,USD,Low,FOMC Member Waller Speaks,,,
-Tue Nov 17 2026,14:15,USD,Low,Capacity Utilization Rate,,76.8%,76.9%
-Tue Nov 17 2026,14:15,USD,Low,Industrial Production m/m,,0.0%,0.7%
+Tue Nov 17 2026,14:15,USD,Low,Capacity Utilization Rate,76.4%,76.8%,76.8%
+Tue Nov 17 2026,14:15,USD,Low,Industrial Production m/m,-0.4%,0.0%,0.7%
+Tue Nov 17 2026,14:29,NZD,Low,GDT Price Index,0.0%,,3.0%
 Tue Nov 17 2026,14:30,USD,Low,FOMC Member Hammack Speaks,,,
-Tue Nov 17 2026,15:00,USD,Low,Business Inventories m/m,,0.5%,0.4%
-Tue Nov 17 2026,15:00,USD,Low,NAHB Housing Market Index,,29,29
-Tue Nov 17 2026,Tentative,NZD,Low,GDT Price Index,,,3.0%
+Tue Nov 17 2026,15:00,USD,Low,Business Inventories m/m,0.5%,0.5%,0.4%
+Tue Nov 17 2026,15:00,USD,Low,NAHB Housing Market Index,25,29,29
 Tue Nov 17 2026,19:25,USD,Low,FOMC Member Williams Speaks,,,
 Tue Nov 17 2026,21:30,USD,Low,API Weekly Statistical Bulletin,,,
-Tue Nov 17 2026,21:45,NZD,Low,PPI Input q/q,,1.5%,2.9%
-Tue Nov 17 2026,21:45,NZD,Low,PPI Output q/q,,1.1%,1.6%
-Tue Nov 17 2026,23:30,AUD,Low,MI Leading Index m/m,,,-0.1%
-Tue Nov 17 2026,23:50,JPY,Low,Trade Balance,,-0.90T,-0.70T
-Wed Nov 18 2026,0:30,AUD,Medium,Wage Price Index q/q,,1.0%,0.8%
+Tue Nov 17 2026,21:45,NZD,Low,PPI Input q/q,0.7%,1.5%,2.9%
+Tue Nov 17 2026,21:45,NZD,Low,PPI Output q/q,0.8%,1.1%,1.7%
+Tue Nov 17 2026,23:39,AUD,Low,MI Leading Index m/m,0.0%,,0.0%
+Tue Nov 17 2026,23:50,JPY,Low,Trade Balance,-0.77T,-0.90T,-0.72T
+Wed Nov 18 2026,0:30,AUD,Medium,Wage Price Index q/q,1.1%,1.0%,0.7%
 Wed Nov 18 2026,2:45,EUR,Low,German Buba President Nagel Speaks,,,
-Wed Nov 18 2026,7:00,GBP,High,CPI y/y,,3.6%,3.5%
-Wed Nov 18 2026,7:00,GBP,Low,Core CPI y/y,,2.8%,2.8%
-Wed Nov 18 2026,7:00,GBP,Low,PPI Input m/m,,0.8%,1.5%
-Wed Nov 18 2026,7:00,GBP,Low,PPI Output m/m,,0.6%,0.8%
-Wed Nov 18 2026,7:00,GBP,Low,RPI y/y,,4.1%,3.9%
+Wed Nov 18 2026,7:00,GBP,High,CPI y/y,3.6%,3.6%,3.5%
+Wed Nov 18 2026,7:00,GBP,Low,Core CPI y/y,2.8%,2.8%,2.8%
+Wed Nov 18 2026,7:00,GBP,Low,PPI Input m/m,2.2%,0.8%,1.5%
+Wed Nov 18 2026,7:00,GBP,Low,PPI Output m/m,0.4%,0.6%,0.8%
+Wed Nov 18 2026,7:00,GBP,Low,RPI y/y,4.2%,4.1%,3.9%
 Wed Nov 18 2026,Tentative,CNY,Low,Foreign Direct Investment ytd/y,,,-4.3%
 Wed Nov 18 2026,7:30,GBP,Medium,BOE Gov Bailey Speaks,,,
 Wed Nov 18 2026,9:00,EUR,Medium,ECB Financial Stability Review,,,
@@ -4577,8 +4577,8 @@ Wed Nov 18 2026,13:30,USD,Low,Building Permits,,1.38M,1.40M
 Wed Nov 18 2026,13:30,USD,Low,Housing Starts,,1.25M,1.22M
 Wed Nov 18 2026,14:25,EUR,Medium,ECB President Lagarde Speaks,,,
 Wed Nov 18 2026,15:00,GBP,High,BOE Gov Bailey Speaks,,,
-Wed Nov 18 2026,15:00,USD,Low,Pending Home Sales m/m,,-2.1%,-7.3%
-Wed Nov 18 2026,15:30,USD,Low,Crude Oil Inventories,,,4.7M
+Wed Nov 18 2026,15:00,USD,Low,Pending Home Sales m/m,,-2.0%,-7.3%
+Wed Nov 18 2026,15:30,USD,Low,Crude Oil Inventories,,0.4M,4.7M
 Wed Nov 18 2026,17:15,USD,Low,FOMC Member Daly Speaks,,,
 Wed Nov 18 2026,17:30,CAD,Low,Gov Council Member Gravelle Speaks,,,
 Wed Nov 18 2026,18:00,NZD,Medium,RBNZ Gov Breman Speaks,,,
@@ -4595,16 +4595,16 @@ Thu Nov 19 2026,9:00,EUR,Low,Current Account,,16.6B,8.7B
 Thu Nov 19 2026,11:00,EUR,Low,German Buba Monthly Report,,,
 Thu Nov 19 2026,11:00,GBP,Low,CBI Industrial Order Expectations,,-29,-32
 Thu Nov 19 2026,12:15,GBP,Low,MPC Member Dhingra Speaks,,,
-Thu Nov 19 2026,13:30,CAD,Low,IPPI m/m,,1.2%,2.0%
-Thu Nov 19 2026,13:30,CAD,Low,RMPI m/m,,2.0%,4.8%
+Thu Nov 19 2026,13:30,CAD,Low,IPPI m/m,,0.4%,2.0%
+Thu Nov 19 2026,13:30,CAD,Low,RMPI m/m,,0.9%,4.8%
 Thu Nov 19 2026,13:30,EUR,Medium,ECB President Lagarde Speaks,,,
-Thu Nov 19 2026,13:30,USD,Medium,Philly Fed Manufacturing Index,,19.2,20.9
-Thu Nov 19 2026,13:30,USD,Medium,Unemployment Claims,,199K,200K
+Thu Nov 19 2026,13:30,USD,Medium,Philly Fed Manufacturing Index,,20.6,20.9
+Thu Nov 19 2026,13:30,USD,Medium,Unemployment Claims,,198K,200K
 Thu Nov 19 2026,13:50,USD,Low,FOMC Member Hammack Speaks,,,
 Thu Nov 19 2026,14:25,USD,Low,FOMC Member Jefferson Speaks,,,
 Thu Nov 19 2026,15:00,USD,Low,CB Leading Index m/m,,0.0%,0.0%
 Thu Nov 19 2026,Tentative,USD,Low,Mortgage Delinquencies,,,4.37%
-Thu Nov 19 2026,15:30,USD,Low,Natural Gas Storage,,,61B
+Thu Nov 19 2026,15:30,USD,Low,Natural Gas Storage,,25B,61B
 Thu Nov 19 2026,17:30,USD,Low,FOMC Member Goolsbee Speaks,,,
 Thu Nov 19 2026,19:15,USD,Low,FOMC Member Barr Speaks,,,
 Thu Nov 19 2026,21:00,USD,Low,FOMC Member Barkin Speaks,,,
@@ -4623,7 +4623,7 @@ Fri Nov 20 2026,13:25,USD,Low,FOMC Member Waller Speaks,,,
 Fri Nov 20 2026,13:30,CAD,Low,Core Retail Sales m/m,,0.7%,1.2%
 Fri Nov 20 2026,13:30,CAD,Low,Retail Sales m/m,,0.7%,1.2%
 Fri Nov 20 2026,15:00,EUR,Low,Consumer Confidence,,-18,-18
-Fri Nov 20 2026,15:00,USD,Medium,Revised UoM Consumer Sentiment,,52.1,51.0
+Fri Nov 20 2026,15:00,USD,Medium,Revised UoM Consumer Sentiment,,51.7,51.0
 Fri Nov 20 2026,15:00,USD,Medium,Revised UoM Inflation Expectations,,,4.3%
 Fri Nov 20 2026,17:15,USD,Low,FOMC Member Cook Speaks,,,
 Sun Nov 22 2026,21:45,NZD,Low,Core Retail Sales q/q,,,0.7%
