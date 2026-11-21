@@ -255,6 +255,7 @@ Tue Jan 20 2026,1:00,CNY,Low,5-y Loan Prime Rate,3.50%,3.50%,3.50%
 Tue Jan 20 2026,7:00,EUR,Low,German PPI m/m,-0.2%,-0.2%,0.0%
 Tue Jan 20 2026,7:00,GBP,High,Claimant Count Change,17.9K,15.6K,-3.3K
 Tue Jan 20 2026,7:00,GBP,Medium,Average Earnings Index 3m/y,4.7%,4.6%,4.8%
+Tue Jan 20 2026,7:00,GBP,Low,HMRC Payrolls Change,-43K,-20K,-33K
 Tue Jan 20 2026,7:00,GBP,Low,Unemployment Rate,5.1%,5.1%,5.1%
 Tue Jan 20 2026,7:30,CHF,Low,PPI m/m,-0.2%,-0.2%,-0.5%
 Tue Jan 20 2026,9:00,EUR,Low,Current Account,8.6B,20.3B,26.7B
@@ -646,6 +647,7 @@ Tue Feb 17 2026,4:30,JPY,Low,Tertiary Industry Activity m/m,-0.5%,-0.3%,-0.4%
 Tue Feb 17 2026,7:00,EUR,Low,German Final CPI m/m,0.1%,0.1%,0.1%
 Tue Feb 17 2026,7:00,GBP,High,Claimant Count Change,28.6K,22.8K,2.7K
 Tue Feb 17 2026,7:00,GBP,Medium,Average Earnings Index 3m/y,4.2%,4.6%,4.6%
+Tue Feb 17 2026,7:00,GBP,Low,HMRC Payrolls Change,-11K,-20K,-6K
 Tue Feb 17 2026,7:00,GBP,Low,Unemployment Rate,5.2%,5.2%,5.1%
 Tue Feb 17 2026,9:00,EUR,Low,Italian Trade Balance,6.04B,4.75B,5.06B
 Tue Feb 17 2026,10:00,EUR,Low,ZEW Economic Sentiment,39.4,45.7,40.8
@@ -1127,6 +1129,7 @@ Thu Mar 19 2026,4:30,JPY,Low,Revised Industrial Production m/m,4.3%,2.2%,2.2%
 Thu Mar 19 2026,6:30,JPY,High,BOJ Press Conference,,,
 Thu Mar 19 2026,7:00,GBP,High,Claimant Count Change,24.7K,25.8K,4.7K
 Thu Mar 19 2026,7:00,GBP,Medium,Average Earnings Index 3m/y,3.9%,3.9%,4.2%
+Thu Mar 19 2026,7:00,GBP,Low,HMRC Payrolls Change,20K,-10K,6K
 Thu Mar 19 2026,7:00,GBP,Low,Unemployment Rate,5.2%,5.3%,5.2%
 Thu Mar 19 2026,8:30,CHF,High,SNB Monetary Policy Assessment,,,
 Thu Mar 19 2026,8:30,CHF,High,SNB Policy Rate,0.00%,0.00%,0.00%
@@ -1575,6 +1578,7 @@ Mon Apr 20 2026,22:00,NZD,Low,NZIER Business Confidence,-4,,48
 Mon Apr 20 2026,22:45,NZD,High,CPI q/q,0.9%,0.8%,0.6%
 Tue Apr 21 2026,6:00,GBP,High,Claimant Count Change,26.8K,22.6K,17.1K
 Tue Apr 21 2026,6:00,GBP,Medium,Average Earnings Index 3m/y,3.8%,3.6%,4.1%
+Tue Apr 21 2026,6:00,GBP,Low,HMRC Payrolls Change,-11K,0K,-6K
 Tue Apr 21 2026,6:00,GBP,Low,Unemployment Rate,4.9%,5.2%,5.2%
 Tue Apr 21 2026,6:30,EUR,Low,German Buba President Nagel Speaks,,,
 Tue Apr 21 2026,9:00,EUR,Low,German ZEW Economic Sentiment,-17.2,-5.9,-0.5
@@ -2002,6 +2006,7 @@ Tue May 19 2026,4:30,JPY,Low,Revised Industrial Production m/m,-0.4%,-0.5%,-0.5%
 Tue May 19 2026,4:30,JPY,Low,Tertiary Industry Activity m/m,-0.2%,-0.4%,-0.7%
 Tue May 19 2026,6:00,GBP,High,Claimant Count Change,26.5K,23.1K,4.9K
 Tue May 19 2026,6:00,GBP,Medium,Average Earnings Index 3m/y,4.1%,3.8%,3.9%
+Tue May 19 2026,6:00,GBP,Low,HMRC Payrolls Change,-100K,-10K,-28K
 Tue May 19 2026,6:00,GBP,Low,Unemployment Rate,5.0%,4.9%,4.9%
 Tue May 19 2026,8:10,GBP,Low,MPC Member Breeden Speaks,,,
 Tue May 19 2026,Day 2,All,Low,G7 Meetings,,,
@@ -2458,6 +2463,7 @@ Wed Jun 17 2026,18:30,USD,High,FOMC Press Conference,,,
 Wed Jun 17 2026,22:45,NZD,High,GDP q/q,0.8%,0.8%,0.5%
 Thu Jun 18 2026,6:00,GBP,High,Claimant Count Change,31.2K,25.8K,8.3K
 Thu Jun 18 2026,6:00,GBP,Medium,Average Earnings Index 3m/y,4.4%,4.0%,4.4%
+Thu Jun 18 2026,6:00,GBP,Low,HMRC Payrolls Change,2K,-23K,-53K
 Thu Jun 18 2026,6:00,GBP,Low,Unemployment Rate,4.9%,5.0%,5.0%
 Thu Jun 18 2026,7:00,CHF,Low,SECO Economic Forecasts,,,
 Thu Jun 18 2026,7:00,EUR,Low,German Buba President Nagel Speaks,,,
@@ -2880,6 +2886,7 @@ Mon Jul 20 2026,14:00,USD,Low,CB Leading Index m/m,-0.2%,-0.1%,0.1%
 Mon Jul 20 2026,22:45,NZD,High,CPI q/q,1.5%,1.4%,0.9%
 Tue Jul 21 2026,6:00,GBP,High,Claimant Count Change,6.7K,29.4K,1.3K
 Tue Jul 21 2026,6:00,GBP,Medium,Average Earnings Index 3m/y,4.3%,4.5%,4.4%
+Tue Jul 21 2026,6:00,GBP,Low,HMRC Payrolls Change,-4K,-8K,3K
 Tue Jul 21 2026,6:00,GBP,Low,Public Sector Net Borrowing,16.0B,17.8B,20.0B
 Tue Jul 21 2026,6:00,GBP,Low,Unemployment Rate,4.9%,4.9%,4.9%
 Tue Jul 21 2026,9:00,EUR,Low,ZEW Economic Sentiment,23.4,11.2,9.5
@@ -3226,6 +3233,7 @@ Mon Aug 17 2026,20:00,USD,Low,TIC Long-Term Purchases,172.7B,151.4B,231.2B
 Tue Aug 18 2026,0:30,AUD,Low,Westpac Consumer Sentiment,6.0%,,4.1%
 Tue Aug 18 2026,6:00,GBP,High,Claimant Count Change,-11.0K,16.5K,-6.4K
 Tue Aug 18 2026,6:00,GBP,Medium,Average Earnings Index 3m/y,4.1%,4.0%,4.4%
+Tue Aug 18 2026,6:00,GBP,Low,HMRC Payrolls Change,-13K,2K,-13K
 Tue Aug 18 2026,6:00,GBP,Low,Unemployment Rate,4.9%,4.8%,4.9%
 Tue Aug 18 2026,9:00,EUR,Low,ZEW Economic Sentiment,31.4,25.9,23.4
 Tue Aug 18 2026,9:00,EUR,Low,German ZEW Economic Sentiment,34.2,30.1,26.3
@@ -3594,6 +3602,7 @@ Tue Sep 15 2026,4:30,JPY,Low,Tertiary Industry Activity m/m,0.4%,0.3%,-0.2%
 Tue Sep 15 2026,6:00,EUR,Low,German WPI m/m,0.9%,0.1%,0.2%
 Tue Sep 15 2026,6:00,GBP,High,Claimant Count Change,27.8K,8.3K,-11.8K
 Tue Sep 15 2026,6:00,GBP,Medium,Average Earnings Index 3m/y,3.9%,3.9%,4.2%
+Tue Sep 15 2026,6:00,GBP,Low,HMRC Payrolls Change,-26K,-5K,-19K
 Tue Sep 15 2026,6:00,GBP,Low,Unemployment Rate,4.9%,5.0%,4.9%
 Tue Sep 15 2026,6:45,EUR,Low,French Final CPI m/m,0.7%,0.7%,0.7%
 Tue Sep 15 2026,8:00,EUR,Low,Italian Trade Balance,8.24B,4.77B,4.34B
@@ -4120,6 +4129,7 @@ Tue Oct 20 2026,1:00,CNY,Low,5-y Loan Prime Rate,3.50%,3.50%,3.50%
 Tue Oct 20 2026,6:00,EUR,Low,German PPI m/m,1.9%,1.5%,1.1%
 Tue Oct 20 2026,6:00,GBP,Medium,Average Earnings Index 3m/y,3.7%,3.8%,3.9%
 Tue Oct 20 2026,6:00,GBP,Low,Claimant Count Change,30.3K,19.4K,7.0K
+Tue Oct 20 2026,6:00,GBP,Low,HMRC Payrolls Change,13K,-8K,1K
 Tue Oct 20 2026,6:00,GBP,Low,Unemployment Rate,4.7%,4.9%,4.9%
 Tue Oct 20 2026,8:00,EUR,Low,Current Account,8.7B,29.2B,27.2B
 Tue Oct 20 2026,9:00,EUR,Low,German ZEW Economic Sentiment,28.1,30.2,34.7
@@ -4535,6 +4545,7 @@ Tue Nov 17 2026,2:00,NZD,High,Inflation Expectations q/q,2.36%,,2.34%
 Tue Nov 17 2026,4:30,JPY,Low,Tertiary Industry Activity m/m,-0.5%,0.1%,-0.7%
 Tue Nov 17 2026,7:00,GBP,Medium,Average Earnings Index 3m/y,3.6%,3.5%,3.8%
 Tue Nov 17 2026,7:00,GBP,Low,Claimant Count Change,33.2K,25.4K,9.8K
+Tue Nov 17 2026,7:00,GBP,Low,HMRC Payrolls Change,-34K,9K,20K
 Tue Nov 17 2026,7:00,GBP,Low,Unemployment Rate,4.6%,4.7%,4.7%
 Tue Nov 17 2026,10:00,EUR,Low,EU Economic Forecasts,,,
 Tue Nov 17 2026,10:00,EUR,Low,ZEW Economic Sentiment,26.5,19.1,18.5
@@ -4616,92 +4627,91 @@ Fri Nov 20 2026,2:00,NZD,Low,Credit Card Spending y/y,5.0%,,6.8%
 Fri Nov 20 2026,7:00,EUR,Low,German PPI m/m,1.4%,0.9%,1.9%
 Fri Nov 20 2026,7:00,GBP,Medium,Retail Sales m/m,0.7%,0.0%,-0.6%
 Fri Nov 20 2026,7:00,GBP,Low,Public Sector Net Borrowing,17.0B,18.0B,22.9B
-Fri Nov 20 2026,Tentative,CNY,Low,Foreign Direct Investment ytd/y,,,-4.3%
 Fri Nov 20 2026,8:15,EUR,Medium,ECB President Lagarde Speaks,,,
 Fri Nov 20 2026,13:00,EUR,Low,German Buba President Nagel Speaks,,,
 Fri Nov 20 2026,13:25,USD,Low,FOMC Member Waller Speaks,,,
-Fri Nov 20 2026,13:30,CAD,Low,Core Retail Sales m/m,,0.7%,1.2%
-Fri Nov 20 2026,13:30,CAD,Low,Retail Sales m/m,,0.7%,1.2%
-Fri Nov 20 2026,15:00,EUR,Low,Consumer Confidence,,-18,-18
-Fri Nov 20 2026,15:00,USD,Medium,Revised UoM Consumer Sentiment,,51.7,51.0
-Fri Nov 20 2026,15:00,USD,Medium,Revised UoM Inflation Expectations,,,4.3%
+Fri Nov 20 2026,13:30,CAD,Low,Core Retail Sales m/m,1.0%,0.7%,1.2%
+Fri Nov 20 2026,13:30,CAD,Low,Retail Sales m/m,0.8%,0.7%,1.4%
+Fri Nov 20 2026,15:00,EUR,Low,Consumer Confidence,-17,-18,-18
+Fri Nov 20 2026,15:00,USD,Medium,Revised UoM Consumer Sentiment,51.5,51.7,51.0
+Fri Nov 20 2026,15:00,USD,Medium,Revised UoM Inflation Expectations,3.7%,,4.3%
+Fri Nov 20 2026,17:00,USD,Medium,President Trump Speaks,,,
 Fri Nov 20 2026,17:15,USD,Low,FOMC Member Cook Speaks,,,
-Sun Nov 22 2026,21:45,NZD,Low,Core Retail Sales q/q,,,0.7%
-Sun Nov 22 2026,21:45,NZD,Low,Retail Sales q/q,,,-0.5%
+Sun Nov 22 2026,21:45,NZD,Low,Core Retail Sales q/q,,0.8%,0.7%
+Sun Nov 22 2026,21:45,NZD,Low,Retail Sales q/q,,0.5%,-0.5%
 Sun Nov 22 2026,22:00,AUD,Low,Flash Manufacturing PMI,,,49.6
 Sun Nov 22 2026,22:00,AUD,Low,Flash Services PMI,,,48.5
 Mon Nov 23 2026,All Day,JPY,,Bank Holiday,,,
-Mon Nov 23 2026,23rd-30th,EUR,Low,German Import Prices m/m,,,
-Mon Nov 23 2026,23rd-30th,EUR,Low,German Retail Sales m/m,,,
-Mon Nov 23 2026,8:15,EUR,Medium,French Flash Manufacturing PMI,,,49.5
-Mon Nov 23 2026,8:15,EUR,Medium,French Flash Services PMI,,,46.2
-Mon Nov 23 2026,8:30,EUR,Medium,German Flash Manufacturing PMI,,,54.2
-Mon Nov 23 2026,8:30,EUR,Medium,German Flash Services PMI,,,52.5
-Mon Nov 23 2026,9:00,EUR,Low,Flash Manufacturing PMI,,,52.7
-Mon Nov 23 2026,9:00,EUR,Low,Flash Services PMI,,,51.4
-Mon Nov 23 2026,9:30,GBP,Medium,Flash Manufacturing PMI,,,52.8
-Mon Nov 23 2026,9:30,GBP,Medium,Flash Services PMI,,,52.8
+Mon Nov 23 2026,8:15,EUR,Medium,French Flash Manufacturing PMI,,49.8,49.5
+Mon Nov 23 2026,8:15,EUR,Medium,French Flash Services PMI,,47.4,46.2
+Mon Nov 23 2026,8:30,EUR,Medium,German Flash Manufacturing PMI,,54.1,54.2
+Mon Nov 23 2026,8:30,EUR,Medium,German Flash Services PMI,,52.4,52.5
+Mon Nov 23 2026,9:00,EUR,Low,Flash Manufacturing PMI,,52.7,52.7
+Mon Nov 23 2026,9:00,EUR,Low,Flash Services PMI,,51.8,51.4
+Mon Nov 23 2026,9:30,GBP,Medium,Flash Manufacturing PMI,,53.0,52.8
+Mon Nov 23 2026,9:30,GBP,Medium,Flash Services PMI,,53.0,52.8
 Mon Nov 23 2026,13:00,GBP,Low,MPC Member Pill Speaks,,,
 Mon Nov 23 2026,13:30,CAD,Low,Corporate Profits q/q,,,
-Mon Nov 23 2026,14:45,USD,Medium,Flash Manufacturing PMI,,,54.9
-Mon Nov 23 2026,14:45,USD,Medium,Flash Services PMI,,,56.1
+Mon Nov 23 2026,14:45,USD,Medium,Flash Manufacturing PMI,,54.5,54.9
+Mon Nov 23 2026,14:45,USD,Medium,Flash Services PMI,,55.6,56.1
 Mon Nov 23 2026,21:00,USD,Low,FOMC Member Williams Speaks,,,
-Tue Nov 24 2026,0:30,JPY,Low,Flash Manufacturing PMI,,,53.3
-Tue Nov 24 2026,9:00,EUR,Low,German ifo Business Climate,,,90.2
-Tue Nov 24 2026,11:00,GBP,Low,CBI Realized Sales,,,-10
+Tue Nov 24 2026,0:30,JPY,Low,Flash Manufacturing PMI,,53.5,53.3
+Tue Nov 24 2026,Tentative,CNY,Low,Foreign Direct Investment ytd/y,,,-4.3%
+Tue Nov 24 2026,9:00,EUR,Low,German ifo Business Climate,,90.6,90.2
+Tue Nov 24 2026,11:00,GBP,Low,CBI Realized Sales,,-24,-10
 Tue Nov 24 2026,12:30,GBP,Low,MPC Member Greene Speaks,,,
 Tue Nov 24 2026,13:15,USD,Low,ADP Weekly Employment Change,,,23.8K
 Tue Nov 24 2026,14:00,CNY,Low,CB Leading Index m/m,,,-0.1%
-Tue Nov 24 2026,14:00,EUR,Low,Belgian NBB Business Climate,,,-9.8
-Tue Nov 24 2026,14:00,USD,Low,HPI m/m,,,0.3%
-Tue Nov 24 2026,14:00,USD,Low,S&P/CS Composite-20 HPI y/y,,,2.7%
-Tue Nov 24 2026,15:00,USD,Medium,CB Consumer Confidence,,,91.7
-Tue Nov 24 2026,15:00,USD,Low,Richmond Manufacturing Index,,,-2
-Tue Nov 24 2026,16:30,CAD,Medium,BOC Gov Macklem Speaks,,,
+Tue Nov 24 2026,14:00,EUR,Low,Belgian NBB Business Climate,,-9.3,-9.8
+Tue Nov 24 2026,14:00,USD,Low,HPI m/m,,0.2%,0.3%
+Tue Nov 24 2026,14:00,USD,Low,S&P/CS Composite-20 HPI y/y,,2.7%,2.7%
+Tue Nov 24 2026,15:00,USD,Medium,CB Consumer Confidence,,92.1,91.7
+Tue Nov 24 2026,15:00,USD,Low,Richmond Manufacturing Index,,-3,-2
+Tue Nov 24 2026,17:25,CAD,Medium,BOC Gov Macklem Speaks,,,
 Tue Nov 24 2026,21:30,USD,Low,API Weekly Statistical Bulletin,,,
-Tue Nov 24 2026,23:50,JPY,Low,SPPI y/y,,,3.7%
-Wed Nov 25 2026,0:30,AUD,High,CPI m/m,,,0.8%
-Wed Nov 25 2026,0:30,AUD,High,CPI y/y,,,4.3%
-Wed Nov 25 2026,0:30,AUD,High,Trimmed Mean CPI m/m,,,0.3%
-Wed Nov 25 2026,0:30,AUD,Low,Construction Work Done q/q,,,-2.1%
-Wed Nov 25 2026,5:00,JPY,Low,BOJ Core CPI y/y,,,2.4%
-Wed Nov 25 2026,7:00,EUR,Low,German Final GDP q/q,,,0.2%
+Tue Nov 24 2026,23:50,JPY,Low,SPPI y/y,,3.6%,3.7%
+Wed Nov 25 2026,0:30,AUD,High,CPI m/m,,0.4%,0.8%
+Wed Nov 25 2026,0:30,AUD,High,CPI y/y,,4.8%,4.3%
+Wed Nov 25 2026,0:30,AUD,High,Trimmed Mean CPI m/m,,0.3%,0.3%
+Wed Nov 25 2026,0:30,AUD,Low,Construction Work Done q/q,,0.8%,-2.1%
+Wed Nov 25 2026,5:00,JPY,Low,BOJ Core CPI y/y,,2.5%,2.4%
+Wed Nov 25 2026,7:00,EUR,Low,German Final GDP q/q,,0.2%,0.2%
 Wed Nov 25 2026,9:00,CHF,Low,UBS Economic Expectations,,,-15.3
 Wed Nov 25 2026,Tentative,EUR,Low,German 10-y Bond Auction,,,3.37|1.1
-Wed Nov 25 2026,13:30,USD,High,Core PCE Price Index m/m,,,0.3%
-Wed Nov 25 2026,13:30,USD,High,Prelim GDP q/q,,,3.4%
-Wed Nov 25 2026,13:30,USD,Medium,Prelim GDP Price Index q/q,,,2.3%
-Wed Nov 25 2026,13:30,USD,Medium,Unemployment Claims,,,203K
-Wed Nov 25 2026,13:30,USD,Low,Core Durable Goods Orders m/m,,,0.5%
-Wed Nov 25 2026,13:30,USD,Low,Durable Goods Orders m/m,,,1.9%
-Wed Nov 25 2026,13:30,USD,Low,Personal Income m/m,,,0.2%
-Wed Nov 25 2026,13:30,USD,Low,Personal Spending m/m,,,0.5%
-Wed Nov 25 2026,15:00,USD,Low,New Home Sales,,,676K
+Wed Nov 25 2026,13:30,USD,High,Core PCE Price Index m/m,,0.3%,0.3%
+Wed Nov 25 2026,13:30,USD,High,Prelim GDP q/q,,3.5%,3.4%
+Wed Nov 25 2026,13:30,USD,Medium,Prelim GDP Price Index q/q,,2.3%,2.3%
+Wed Nov 25 2026,13:30,USD,Medium,Unemployment Claims,,201K,203K
+Wed Nov 25 2026,13:30,USD,Low,Core Durable Goods Orders m/m,,0.5%,0.5%
+Wed Nov 25 2026,13:30,USD,Low,Durable Goods Orders m/m,,0.5%,1.9%
+Wed Nov 25 2026,13:30,USD,Low,Personal Income m/m,,0.4%,0.2%
+Wed Nov 25 2026,13:30,USD,Low,Personal Spending m/m,,0.4%,0.5%
+Wed Nov 25 2026,15:00,USD,Low,New Home Sales,,649K,676K
 Wed Nov 25 2026,15:30,USD,Low,Crude Oil Inventories,,,3.4M
 Wed Nov 25 2026,17:00,USD,Low,Natural Gas Storage,,,20B
 Wed Nov 25 2026,19:00,USD,Low,Beige Book,,,
-Thu Nov 26 2026,0:30,AUD,Low,Private Capital Expenditure q/q,,,-3.6%
+Thu Nov 26 2026,0:30,AUD,Low,Private Capital Expenditure q/q,,4.4%,-3.6%
 Thu Nov 26 2026,0:30,AUD,Low,RBA Bulletin,,,
-Thu Nov 26 2026,7:00,EUR,Low,German GfK Consumer Climate,,,-30.8
-Thu Nov 26 2026,9:00,EUR,Low,M3 Money Supply y/y,,,3.5%
-Thu Nov 26 2026,9:00,EUR,Low,Private Loans y/y,,,3.1%
+Thu Nov 26 2026,7:00,EUR,Low,German GfK Consumer Climate,,-29.4,-30.8
+Thu Nov 26 2026,9:00,EUR,Low,M3 Money Supply y/y,,3.5%,3.5%
+Thu Nov 26 2026,9:00,EUR,Low,Private Loans y/y,,3.2%,3.1%
 Thu Nov 26 2026,10:30,GBP,Low,BOE Financial Stability Report,,,
 Thu Nov 26 2026,10:30,GBP,Low,FPC Meeting Minutes,,,
 Thu Nov 26 2026,10:30,GBP,Low,FPC Statement,,,
 Thu Nov 26 2026,12:30,EUR,Low,ECB Monetary Policy Meeting Accounts,,,
 Thu Nov 26 2026,All Day,USD,,Bank Holiday,,,
-Thu Nov 26 2026,23:30,JPY,Medium,Tokyo Core CPI y/y,,,2.6%
-Fri Nov 27 2026,7:45,EUR,Low,French Consumer Spending m/m,,,-0.5%
-Fri Nov 27 2026,7:45,EUR,Low,French Final Private Payrolls q/q,,,-0.1%
-Fri Nov 27 2026,7:45,EUR,Low,French Prelim CPI m/m,,,0.4%
-Fri Nov 27 2026,7:45,EUR,Low,French Prelim GDP q/q,,,-0.1%
-Fri Nov 27 2026,8:00,EUR,Low,Spanish Flash CPI y/y,,,4.9%
-Fri Nov 27 2026,8:55,EUR,Low,German Unemployment Change,,,4K
+Thu Nov 26 2026,23:30,JPY,Medium,Tokyo Core CPI y/y,,2.9%,2.6%
+Fri Nov 27 2026,7:45,EUR,Low,French Consumer Spending m/m,,0.2%,-0.5%
+Fri Nov 27 2026,7:45,EUR,Low,French Final Private Payrolls q/q,,-0.1%,-0.1%
+Fri Nov 27 2026,7:45,EUR,Low,French Prelim CPI m/m,,-0.1%,0.4%
+Fri Nov 27 2026,7:45,EUR,Low,French Prelim GDP q/q,,-0.1%,-0.1%
+Fri Nov 27 2026,8:00,EUR,Low,Spanish Flash CPI y/y,,4.8%,4.9%
+Fri Nov 27 2026,8:55,EUR,Low,German Unemployment Change,,5K,4K
 Fri Nov 27 2026,Tentative,EUR,Low,Italian 10-y Bond Auction,,,
 Fri Nov 27 2026,12:40,EUR,Low,German Buba President Nagel Speaks,,,
-Fri Nov 27 2026,13:30,CAD,Low,Current Account,,,8.8B
-Fri Nov 27 2026,13:30,USD,Low,Goods Trade Balance,,,-135.1B
-Fri Nov 27 2026,13:30,USD,Low,Prelim Wholesale Inventories m/m,,,0.7%
+Fri Nov 27 2026,13:30,CAD,Low,Current Account,,9.6B,8.8B
+Fri Nov 27 2026,13:30,USD,Low,Goods Trade Balance,,-134.4B,-135.1B
+Fri Nov 27 2026,13:30,USD,Low,Prelim Wholesale Inventories m/m,,0.7%,0.7%
 Sun Nov 29 2026,All Day,All,Medium,OPEC-JMMC Meetings,,,
 Sun Nov 29 2026,All Day,All,Medium,OPEC Meetings,,,
 Sun Nov 29 2026,23:50,JPY,Low,Prelim Industrial Production m/m,,,
@@ -4714,6 +4724,8 @@ Mon Nov 30 2026,0:30,AUD,Low,Private Sector Credit m/m,,,
 Mon Nov 30 2026,1:30,CNY,Low,Manufacturing PMI,,,
 Mon Nov 30 2026,1:30,CNY,Low,Non-Manufacturing PMI,,,
 Mon Nov 30 2026,5:00,JPY,Low,Housing Starts y/y,,,
+Mon Nov 30 2026,Tentative,EUR,Low,German Import Prices m/m,,,
+Mon Nov 30 2026,Tentative,EUR,Low,German Retail Sales m/m,,,
 Mon Nov 30 2026,30th-4th,GBP,Low,Nationwide HPI m/m,,,
 Mon Nov 30 2026,All Day,EUR,Medium,German Prelim CPI m/m,,,
 Mon Nov 30 2026,30th-2nd,CHF,Low,Retail Sales y/y,,,
@@ -4923,6 +4935,7 @@ Tue Dec 15 2026,2:00,CNY,Low,Unemployment Rate,,,
 Tue Dec 15 2026,7:00,GBP,High,Unemployment Rate,,,
 Tue Dec 15 2026,7:00,GBP,Medium,Average Earnings Index 3m/y,,,
 Tue Dec 15 2026,7:00,GBP,Low,Claimant Count Change,,,
+Tue Dec 15 2026,7:00,GBP,Low,HMRC Payrolls Change,,,
 Tue Dec 15 2026,7:30,CHF,Low,PPI m/m,,,
 Tue Dec 15 2026,10:00,EUR,Low,Industrial Production m/m,,,
 Tue Dec 15 2026,10:00,EUR,Low,German ZEW Economic Sentiment,,,
